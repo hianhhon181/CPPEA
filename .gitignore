@@ -1,0 +1,18 @@
+# Dữ liệu và kết quả sinh ra (dung lượng lớn)
+data/
+probes*/
+predictions*/
+metrics*/
+errors_*.csv
+peek_output.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / hệ điều hành
+.vscode/
+.DS_Store
+Thumbs.db

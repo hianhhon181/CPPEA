@@ -1,0 +1,5 @@
+# PyTorch cài riêng theo CUDA của máy (xem README)
+transformers>=4.45
+accelerate>=0.33
+bitsandbytes>=0.43
+sentence-transformers>=3.0
