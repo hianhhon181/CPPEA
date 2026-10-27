@@ -1,0 +1,10 @@
+Dữ liệu: data\msc\msc_dialogue  split=test  seed=13
+Số episode đọc được: 2004
+Lọc ngữ nghĩa: bật, sentence-transformers/all-MiniLM-L6-v2, sem_thr=0.45, sem_dup=0.9
+Số mẫu gốc đủ điều kiện (trước khi lấy mẫu con): 4672 {1: 1126, 2: 1114, 3: 1182, 4: 1250}
+Số mẫu gốc: 1500
+Tổng số probe: 9000
+Số probe theo biến thể: original=1500, removal=1500, subst_content=1500, subst_speaker=1500, distractor_irrelevant=1500, distractor_other=1500
+Số mẫu gốc theo số phiên trước: 1 phiên=375, 2 phiên=375, 3 phiên=375, 4 phiên=375
+Độ dài ngữ cảnh (từ): trung bình 202, min 27, max 553
+Vị trí đáp án đúng (0=A,1=B,2=C): {0: 3031, 1: 2952, 2: 3017}

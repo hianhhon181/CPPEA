@@ -1,0 +1,263 @@
+id,target_speaker,fact_bi_xoa_hoac_thay,mo_hinh_chon,xac_suat_ABC,ngu_canh_sau_can_thiep,leak (y/n),note
+session_4/test/206|0|48f2d25d|removal,Speaker 1,i go on walks often.,i go on walks often.,"[0.8376, 0.0278, 0.1346]","[Session 1]
+Speaker 1: My name is Stephanie. I love to hike with my dogs. I take my dogs everywhere. I have a dad that works as a fireman. I like to read. I do charity work. I volunteer at the hospital where my mom works.
+Speaker 2: I love to hunt. I take my dog deer hunting. I love animals. I think hunting helps control the deer population. I like to read.
+[Session 2]
+Speaker 1: I am working on an event for bring your pet to work day for volunteers and animals for the critical care unit. I think dogs are more trainable than cats. I may include cats in my event also. I am a volunteer at my local hospital. I am not familiar with nursing homes or assisted living facilities. I plan on researching local nursing homes or assisted living facilities for bring your pet to work day. I love dogs.
+Speaker 2: I think dogs are a comfort. I have a cat named Henry. I think a cat purring is therapeutic. I have a dog. I love animals.
+[Session 3]
+Speaker 1: I'm throwing an event at a hospital. I have two dogs, a black lab and golden retriever. I hunt deer for sport. I like venison.
+Speaker 2: I have a cat named Henry and a friendly dog named Ollie. My dog is a Catahoula Leopard. I have a fenced in yard. I have a camera in my yard. I have nextdoor neighbors. I hunt deer and give the bodies to a museum for display. Sometimes I eat the meat of the deer I hunt.",n,
+session_5/test/263|0|64a1756b|removal,Speaker 1,I have postponed getting help because I have not had a connection with someone.,I have postponed getting help because I have not had a connection with someone.,"[0.6159, 0.0221, 0.362]","[Session 1]
+Speaker 1: I'm from the great lakes area, just south of canada. I think Michigan is a decent place besides flint and detroit. I have a family of honda civics. They are very reliable.
+Speaker 2: I have a vw. I drove up to Traverse city once. I have a vw old style beetle. It still has the vase holder. I am partial to vws.
+[Session 2]
+Speaker 1: I have access to a Honda Civic. I live near Wisconsin. I know how to work on cars. I want to convert a Volkswagen Beetle into a dune buggy. I am a mechanic. I work on cars and aircraft.
+Speaker 2: I like cars made by Honda. I recently visited Traverse City and saw Lake Michigan. I own a Volkswagen Beetle. I can do simple car maintenance.
+[Session 3]
+Speaker 1: Speaker 1 has a tight space. Speaker 1 works with airplanes. Speaker 1 knows about airplanes and car mechanics. Speaker 1 works on single propeller planes. Speaker 1 does not fly. Speaker 1's partner is a pilot.
+Speaker 2: Speaker 1 keeps airplanes in their garage. Speaker 1 does airplane work as a side gig. Speaker 1's partner is a male. Speaker 2 does not make enough money to take flying lessons.
+[Session 4]
+Speaker 1: I have my own business. I have a business partner. My partner is a pilot. I do not know how to fly but I have been considering taking lessons. I like the idea of learning together. I am willing to exchange work for lessons. I am under a lot of stress due to work. I have worked at my job since I was a teenager. I purchased the business about 10 years ago. I was inexperienced in running the business when I bought it but I am a fast learner. My business involves repairs. I am not great at organization. I can use my repair shop to work on personal projects. I repair planes. I prefer working with people I have things in common with.
+Speaker 2: I am interested in learning to fly. I think learning together would help us both succeed. I'm good at keeping records. I am very organized. I have a VW Bug. I would like to convert it into a dune buggy. I would like you to help me convert it. I like Honda cars. I am looking forward to having a job at the repair shop.",n,
+session_5/test/240|1|abdb55ac|removal,Speaker 2,I spend quality time with my family.,I spend quality time with my family.,"[0.7307, 0.06, 0.2093]","[Session 1]
+Speaker 1: My name is Bill O'sullivan. I watch baseball on TV. I own a truck. I'm a seaman. I like to eat lasagna and New England clam chowder at the same time. I have a dog. I have a wife.
+Speaker 2: I own a tractor. I own a truck. I own a living by growing beans and corn on my farm. I'm not a fan of going out in the water. I live near my father. I'm not married. I plan on farming my whole life.
+[Session 2]
+Speaker 1: I have no fear of water. I have seen farms when travelling. I have a wife and a dog. I watch baseball with my Dad.
+Speaker 2: I don't like being on the water. I am not a strong swimmer. I live on a farm. I grow a range of beans and corn. Last summer I experienced drought. My Dad helps me. I live near my Dad. My Dad and I are close.
+[Session 3]
+Speaker 1: I am currently located near the water. I have a pontoon boat. I can swim. I know how to fish. I practice catch and release fishing. I have access to email.
+Speaker 2: I am trying to grows plants. I do not like water. I am scared of fast boats. I like eating fish. I live on a farm. I am a farmer. I am scared of the water. I prefer to live away from the water.
+[Session 4]
+Speaker 1: I own a boat. I can sail. I know how to fish. I am free on Sunday.
+Speaker 2: I don't like water. I am interested in fishing. I have plans on Saturday. I am free on Sunday. I love goldfish crackers.",n,
+session_2/test/279|0|3513e95a|removal,Speaker 1,My family is active.,My family is active.,"[0.1283, 0.7862, 0.0855]","[Session 1]
+Speaker 1: My father is a truck driver. I like to work outdoors. I play basketball often. My mother is Canadian. I am short.
+Speaker 2: I like animals. I have a kind heart. My mother is a doctor and my father is a fireman. I read a lot. I have multiple animals. I would rather read with my animals than be outdoors. I like to hike sometimes. I am a kind person.",n,
+session_5/test/441|0|8c77599c|removal,Speaker 1,I am slowly letting her be more independent.,I am slowly letting her be more independent.,"[0.1808, 0.6717, 0.1475]","[Session 1]
+Speaker 1: I am allergic to dogs. I like dogs more than cats. I have two kids. I have two daughters. My daughters like scary movies. I was a psychology major in college. I am an assistant to a psychiatrist. I like running. I don't eat dairy or gluten.
+Speaker 2: I am a decent painter. I like horror movies. I have two kids. I work for the government. I like naps.
+[Session 2]
+Speaker 1: I have daughters. I like horror movies. I have two daughters. My daughters are in 10th and 6th grade.
+Speaker 2: I love horror movies. I have not seen the ""Conjuring"" movie. I have kids. I have two sons. My sons are in 9th and 3rd grade.
+[Session 3]
+Speaker 1: I have a daughter, she is currently in a relationship. I don't like the responsibilities of being an adult, such as paying bills and taxes. I wish my daughter didn't grow up as fast. I found it easier to take care of my children when they were 6 months year old. I didn't get much sleep when my kids were babies.
+Speaker 2: I have a son that is in 9th grade. I fear when he will grow into an adult. I need advice on how to handle my children when they start dating. I wish my kids understood how much I cared about them. I have two boys.
+[Session 4]
+Speaker 1: I have a daughter that is currently dating a boy. I met with her boyfriend recently. My daughter is currently in high school, I did not let her date before. I feel apprehensive when my daughter leaves the house. My daughter drives her car to school. I do not let her drive at night.
+Speaker 2: I have children, they are young and still not dating. My oldest child wants his own car. I am willing to help my son buy a car, he is currently mowing lawns for money.",n,
+session_4/test/240|1|abdb55ac|removal,Speaker 2,I spend quality time with my family.,I spend quality time with my family.,"[0.0893, 0.808, 0.1027]","[Session 1]
+Speaker 1: My name is Bill O'sullivan. I watch baseball on TV. I own a truck. I'm a seaman. I like to eat lasagna and New England clam chowder at the same time. I have a dog. I have a wife.
+Speaker 2: I own a tractor. I own a truck. I own a living by growing beans and corn on my farm. I'm not a fan of going out in the water. I live near my father. I'm not married. I plan on farming my whole life.
+[Session 2]
+Speaker 1: I have no fear of water. I have seen farms when travelling. I have a wife and a dog. I watch baseball with my Dad.
+Speaker 2: I don't like being on the water. I am not a strong swimmer. I live on a farm. I grow a range of beans and corn. Last summer I experienced drought. My Dad helps me. I live near my Dad. My Dad and I are close.
+[Session 3]
+Speaker 1: I am currently located near the water. I have a pontoon boat. I can swim. I know how to fish. I practice catch and release fishing. I have access to email.
+Speaker 2: I am trying to grows plants. I do not like water. I am scared of fast boats. I like eating fish. I live on a farm. I am a farmer. I am scared of the water. I prefer to live away from the water.",n,
+session_4/test/440|0|cf72e48c|removal,Speaker 1,I sometimes have time to read.,I sometimes have time to read.,"[0.5933, 0.0176, 0.3891]","[Session 1]
+Speaker 1: I have twin babies. I mostly read church news. I am Catholic. I have a husband. I used to live in Sweden. My husband is a salesman who often travels. I currently live in the states. I prefer the United States over Sweden.
+Speaker 2: I love to garden. My mother used to be a police officer. I sell cars. I have traveled to Sweden. I found Sweden to be boring.
+[Session 2]
+Speaker 1: I grow vegetables. I go to church. I like spicy food. I have a husband who travels. I have friends.
+Speaker 2: I have a garden. I cook. I love spicy food. I like Thai food. I do not go to church. I have spiritual beliefs. I have friends. I have a husband who does not travel much.
+[Session 3]
+Speaker 1: I go to church. I have tried Thai food. I want to learn how to cook more. I have a garden. I am growing tomatoes, peppers and cucumbers.
+Speaker 2: I like Thai food. I love eating mango fried rice with cashews. My mother used to be a police officer who now opened a restaurant. I test items on my mother's menu. I do not have a garden.",y,I mostly read church news.
+session_3/test/230|1|308b2c29|removal,Speaker 2,I believe everyone deserves a living wage.,I believe everyone deserves a living wage.,"[0.976, 0.0025, 0.0216]","[Session 1]
+Speaker 1: I work at a mall. I am open minded.
+Speaker 2: I have a blog. I am vegan. I am a singer. I used to be a veterinarian. I am not a full-time blogger. I like to travel.
+[Session 2]
+Speaker 1: I don't make much money working at the mall. I think I would make more working at a job with tips. I like talking to people. It is energizing. I am afraid I may make even less if I worked for tips. The minimum wage is even lower. I think it is bad that everyone sees underpaying is acceptable. I think that even people who disagree with tipping should do it anyway to help their server.
+Speaker 2: I want to make my blog a full time gig. I hate people who refuse to tip. In my dream world, everyone could contribute and everyone would have enough to eat and a safe place to live.",y,everyone could contribute and everyone would have enough to eat and a safe place to live.
+session_3/test/352|0|133bb877|removal,Speaker 1,I have multiple siblings.,I have multiple siblings.,"[0.9848, 0.0024, 0.0128]","[Session 1]
+Speaker 1: I am moving out of state next month. I am a fan of the Chicago Bears. My father was a principal for a high school. I was not allowed at the high school my father worked at. My siblings and I learned different languages growing up. I speak English, German and Italian.
+Speaker 2: I love to play baseball. I like different languages. I speak English and French. I am learning to speak German. I live in Canada. I like the summers in Canada.
+[Session 2]
+Speaker 1: I plan to move to either California, Florida, or Texas. I hope to work for a tech company. I would like to work at a start up, but I find them risky. I need to gain some work skills.
+Speaker 2: I enjoy watching baseball.",y,My siblings and I learned different languages growing up.
+session_3/test/274|0|d0bd9d3e|removal,Speaker 1,I am looking for ajob.,I am looking for ajob.,"[0.0266, 0.9683, 0.0051]","[Session 1]
+Speaker 1: I like camping. I like the stars. I graduated high school. I am shy. I am on a cross country journey. I don't care about voting.
+Speaker 2: I like camping. I go hiking. I am kind, caring, and hope for group equality. I don't vote. I love my neighbour John.
+[Session 2]
+Speaker 1: I go camping. I wish I had a pet. I go camping and hiking sometimes. I want to find a job. I need new camping gear. I need a new hammock.
+Speaker 2: I love hammocks. I have a backyard. I have a dog. I have a house. I have children. I like hiking. I live near the Columbia Trail. My favorite part of hiking is Ken Lockwood Gorge near High Bridge. I have a neighbor John.",y,I want to find a job.
+session_4/test/128|0|c44b8d69|removal,Speaker 1,I sometimes walk instead of drive.,I sometimes walk instead of drive.,"[0.4836, 0.0403, 0.4761]","[Session 1]
+Speaker 1: i like going for walks and rock climbing and like the outdoors. my favorite music band is 21 Pilots. i like rock music. i am in college and working as a waitress in a family owned restaurant. i own and drive a hyundai elantra. i am originally from Ohia, but i now live in Florida and love the different weather here.
+Speaker 2: i like to go shooting in the woods. i own two hand guns that i like shooting. i like classical music, my favorite piece is moonlight sonata. i own a volkswagon beetle. my family ancestors are originally from italy.
+[Session 2]
+Speaker 1: I like both rock and classical music. I helped my friend restore a Beetle.
+Speaker 2: I like classical music. I had my VW Beetle since 1985. I'm working on a restoration job.
+[Session 3]
+Speaker 1: I own a Hyundai. I go to college. I recently went to a rock concert. I live in Florida. I love hot weather. I am studying for a master's degree in criminal justice. I am close to finishing my degree. I take summer classes to accelerate my degree. I like to listen to music while I study. I like the band 21 Pilots.
+Speaker 2: I can't stand hot weather. I prefer indoor events. I majored in criminal justice. I graduated college a few years ago. I liked to take accelerated classes. I like to listen to music while I study. I like the band 21 Pilots. I have a job doing restoration. I am restoring a Beetle.",n,
+session_4/test/353|1|8dc6e60c|removal,Speaker 2,My classes are going well.,My classes are going well.,"[0.047, 0.5136, 0.4393]","[Session 1]
+Speaker 1: I'm outgoing. I like to sing. I work in construction. I have daughters. I grew up in Mexico.
+Speaker 2: I don't drink. I'm vegan. I like singing in the garden. I'm going to community college to become a nurse. I have a cat and two dogs. I do volunteer work.
+[Session 2]
+Speaker 1: I have daughters. My daughters like to paint. I build houses. I like singing. My daughters do not like singing. My daughters and I have a playful relationship. I sing opera. I weigh 200 pounds. I work construction. I don't do gardening. I work outside. My job makes me tired. My construction work is commercial. My kids don't understand exactly what my job is.
+Speaker 2: I like to sing. I don't have any kids. I have pets. I listen to the radio. I garden.
+[Session 3]
+Speaker 1: I have daughters who like to draw. My daughters need my help when they paint.
+Speaker 2: I'm in college. I'm studying to be a nurse. I'm far along in my studies. I think nursing is an important career.",y,I'm far along in my studies.
+session_3/test/238|0|7eb10308|removal,Speaker 1,My family came from the North.,My family came from the North.,"[0.5643, 0.0163, 0.4194]","[Session 1]
+Speaker 1: I own a smart car. I used to have a long commute and live in Alaska. I have blue eyes and blonde hair. I want to retire one day down South on a beach. I prefer the warmth. I like eggs. I think they are tasty.
+Speaker 2: I do not drive much. I have a short commute. I live on the 32nd floor. I am a plumber and I am balding and overweight. I think there is nothing better than warm days and cool mornings except maybe a poached egg. I could eat eggs by the truckload. My father used to have a truck. I am hungry.
+[Session 2]
+Speaker 1: My favourite egg dish is eggs benedict. I have a Smart Car. I really like my car. I live in Alaska and I love it here. I go hiking in the summer.
+Speaker 2: I've been thinking of getting a smart car. I've always thought about visiting Alaska. I would have to get some black out curtains to deal with the daylight in Alaska. I would love to go to Alaska and see the wildlife. I would like to visit some glaciers.",n,
+session_4/test/332|1|0e6a092c|removal,Speaker 2,I like manual labor.,I like manual labor.,"[0.9055, 0.0076, 0.0869]","[Session 1]
+Speaker 1: I have a mother who is a doctor. I have no money. I have a father who is a fireman. I read. I am in high school.
+Speaker 2: I live in a small town. I want money. I have finished high school.
+[Session 2]
+Speaker 1: I love french fries. I like kids.
+Speaker 2: I live in a small town. I want to move. I'm looking for a job to save money to move. I think working at a fast food restaurant might make me fat. I have a friend who works in a fast food restaurant. I don't think I'd like smelling like a fast food restaurant. I've thought of working in construction, child care or a house cleaning job. I don't like kids. I'm looking for high paying skilled work.
+[Session 3]
+Speaker 1: I can imagine. I don't know what I will do for work after graduating high school. I am a junior in high school. I'll graduate high school next year. I am unsure about attending college or finding a job. I have a mom and dad. My mom and dad don't agree on my future in college.
+Speaker 2: I was looking for a job. I found some jobs house cleaning and doing childcare. I started my job. I have worked a few days. I am not good at working with kids. My job is a lot of work. The kids I babysit are 7 and 10 years old. I don't mind caring for them. I am still looking for a job that pays more money. I am looking for a job in construction. I like to be fit. I like to save time. I think college is expensive. I value working for money. I don't like debt.",y,I'm still looking for a job that pays more money.
+session_4/test/469|1|012c4359|removal,Speaker 2,I'm thinking about financial stability.,I'm thinking about financial stability.,"[0.5314, 0.0416, 0.427]","[Session 1]
+Speaker 1: I enjoy running. I am a tax accountant. I live in New York city. I recently moved to a new apartment. I like food that is high in protein.
+Speaker 2: I enjoy running outside. I am a programmer. I spend a lot of time sitting. I prefer to wear casual attire to work. My office has a casual dress code. I grew up in Alaska, where I now live. I enjoy eating meat. My favorite meat is steak.
+[Session 2]
+Speaker 1: I live in an apartment. I have neighbors. I don't have a gym membership. I have a job.
+Speaker 2: I am used to the cold weather.I like to run. I have an active lifestyle. I am sarcastic. I do computer programming. I have a job.
+[Session 3]
+Speaker 1: I know about the auroras in Alaska. I have a job. I have a well paying job. I am wise with my money. I went to Canada and Mexico. I would like to see the aurora borealis. I want to go traveling to other countries.
+Speaker 2: I like looking at nature. I'm interested in your life. I have never been outside of the U.S before. I would like to see wild orcas. I would like to travel overseas.",y,I have a well paying job.
+session_3/test/148|1|15295aa3|removal,Speaker 2,I might want to move.,I might want to move.,"[0.8233, 0.0146, 0.1621]","[Session 1]
+Speaker 1: I like country music. My parents listened to country. My family has a farm. I did not go to college. I do not have a nice car.
+Speaker 2: I dislike country music. I am in a family run business. My family does real estate. I like winter. My life is not peaceful. I have kids. This was my first time meeting you.
+[Session 2]
+Speaker 1: I like blues music. I like to go to live concerts. I have a farm. I have cows on my farm.
+Speaker 2: I have children. I want to spend time with my children. I live in a city. My kids can bug me for favors. My kids don't drink cows milk.",n,
+session_5/test/88|1|2bdf204c|removal,Speaker 2,I'm a single guy.,I'm a single guy.,"[0.9579, 0.0083, 0.0338]","[Session 1]
+Speaker 1: I like fishing. I'm a truck driver and I get to travel alot. I have a wife and two kids.
+Speaker 2: I am starting a new job. I'm going to work in computer programming. I have no wife or kids. I like to go on cruises during my vacations. I live in San Francisco. I think a lot of computer programmers are there. I just moved here and am trying to make more friends. I lived in Kansas City.
+[Session 2]
+Speaker 1: I go on trips. I am taking a family trip. I am tired of work. I am in a truck all day. I think lot lizards are real and disgusting.
+Speaker 2: I would like a job outside sometimes. I don't know what meth is like. I buy plant fertilizer.
+[Session 3]
+Speaker 1: I have a job. I went to San Antonio. I have a son. I have a family.I have a home. I like fishing. I have young kids. My father took me fishing when i was young. I make decisions with my wife.
+Speaker 2: I've never been to Disney before. I have been on cruises. I live in San Francisco.
+[Session 4]
+Speaker 1: I like really good restaurants. I am familiar with websites that allow you to meet people who are interested in the same activities. Not dating. My wife and I are not very social. Out on the road quite often.
+Speaker 2: I have lived in San Francisco and Kansas City. My favorite weekend stop in Kansas City was a local breakfast joint. I have new friends that have recommended restaurants but they are not close enough as friends to join me. I am a programmer. I went to college. I like to go on cruises. I am not married but I connect with people easily.",y,I am not married but I connect with people easily.
+session_3/test/334|1|8a5de8a2|removal,Speaker 2,There is no room and no yard at my place.,There is no room and no yard at my place.,"[0.7457, 0.0232, 0.231]","[Session 1]
+Speaker 1: I recently moved. I am lonely. I can't handle being alone. I like going to concerts. I have two older brothers. I grew up with dogs. I have two older brothers.
+Speaker 2: I used to live in Europe. I enjoy running half marathons. I love dogs. I work in the Tech industry. I am paid well. I am bored at work.
+[Session 2]
+Speaker 1: I have never been in Europe. have read about the continent in different books. I am going to get a dog. I love running, jogging and riding bikes.
+Speaker 2: I moved from France. I lived in other countries before. I prefer living by myself. I like my privacy. I have not a dog at the moment. I have the money, but not the space for the pet. I work in the tech industry. My company pays well. . I feel like a code whore. I should get a bike. I have not enough money for bigger place.",y,"I have the money, but not the space for the pet."
+session_2/test/136|0|f2f2c9c3|removal,Speaker 1,I live near the water and in warm weather.,I live near the water and in warm weather.,"[0.9838, 0.003, 0.0132]","[Session 1]
+Speaker 1: I don't like the cold. I live in California. I have blonde hair and my favorite hobby is reading. My favorite food is tacos. I have grandchildren and they make me happy. I like country music. I have many grandchildren.
+Speaker 2: I have blonde hair. I like to listen to rock. I like jello. My mom is a nurse.",n,
+session_4/test/478|0|201b6869|removal,Speaker 1,I am concerned there will be a catfish.,I am concerned there will be a catfish.,"[0.8395, 0.0099, 0.1505]","[Session 1]
+Speaker 1: I am going to buy a new car. I don't really like cars.
+Speaker 2: I recently got a divorce with my wife. I like scuba diving and snakes. I am a US Marine veteran.
+[Session 2]
+Speaker 1: I bought a new SUV. I needed a new car. I think getting out there would be a good idea. I have friends that met on online dating sites.
+Speaker 2: I am single but thinking about going on dates to find someone new. I am divorced. thinking about joining online dating sites. I am looking for the love of my life. I am looking for a women. I am aware some people are not who they say they are.
+[Session 3]
+Speaker 1: I recently bought a new SUV. I travel long distances by car often. I am not rich.
+Speaker 2: I am old enough to drive. I recently am divorced. I own my own car.",n,
+session_3/test/48|0|d7472350|removal,Speaker 1,I am gone during the day.,I am gone during the day.,"[0.5121, 0.0499, 0.438]","[Session 1]
+Speaker 1: I might tend to my garden today. I am growing peppers, tomatoes and some herbs. I'm a car salesman.
+Speaker 2: I am going outside to play basketball. I am short. I'm not very good at basketball but I like it. I like working outside. My dad drives a truck. My parents are from Canada. I work outside for my job.
+[Session 2]
+Speaker 1: I am married and have a wife. I have a wife that gardens. My wife loves to garden. My wife likes huskies. I do not have a dog.
+Speaker 2: I have a job as a dog walker. I like to exercise. I like to make money. I work part time. I adore the dog. I know where speaker 1 lives. I like huskies and german shephards. I want to learn how to garden. I will be walking dogs tomorrow. i am excited to see speaker 1 and the garden tomorrow.",n,
+session_5/test/399|0|97839a9e|removal,Speaker 1,I would like to decorate my wedding with my kill.,I would like to decorate my wedding with my kill.,"[0.4962, 0.0228, 0.4809]","[Session 1]
+Speaker 1: I have been on a tour. I have been near New Orleans. I am from New Orleans. My mom is from Canada.
+Speaker 2: I have an air boat. I have been in trouble. I am not allowed to go to Canada. I like to hunt.
+[Session 2]
+Speaker 1: I have no kids. I am engaged to be married. I plan to be a homesteader. My fiance is a veterinarian.
+Speaker 2: I hunt gators. I have a kid. I have a daughter and am going to have another. I am a foster parent. My grandfather is from Kansas. I have a sister. My sister has several pets.
+[Session 3]
+Speaker 1: I am going on a gator hunt next weekend. I will be on vacation next weekend. I will be riding on a fan boat to gator hunt. I am engaged and my fiance is going with me. My fiance is a veterinarian.
+[Session 4]
+Speaker 1: I have a fiance. I'm hoping to kill a gator. I love deer meat. This is the first time I am hunting with my fiance. I live close to my mom.
+Speaker 2: I used to live in Maine. I crossed the border into Canada, had some drinks, and then did not stop at the border coming back into Maine. I've hunted gators before, killing 4 but 10 got away. I love to hunt Moose. I never won the lottery for a moose hunting license when I lived in Maine. I've hunted deer many times. I like venison stew. I want to go to Canada. I liked to shop there. I tried to learn to speak French. I'm not good at it.",n,
+session_4/test/61|1|0bf37499|removal,Speaker 2,I've been reading classic American literature recently.,I've been reading classic American literature recently.,"[0.0633, 0.62, 0.3167]","[Session 1]
+Speaker 1: I like the show extreme couponing. I uses coupons while shopping. I paint. I am a student in college. I like walks during sunset. I pet five pet dogs. I own three rats. I don't listen to music whilst painting.
+Speaker 2: I love to read books. I like riding my bike. I can fix computers.
+[Session 2]
+Speaker 1: I have 3 dogs named Scout, Daisy and Gatsby. My dogs are named after my favorite books. I like the movie versions of The Great Gatsby. I like Leonardo DiCaprio. I love ""The Office."" I like John Krasinski. I like the ""Good News Network."". I recently finished finals. I have 8 pets. I'm always busy.
+Speaker 2: I like to read books. I like the newer version of The Great Gatsby movie. I like Leonardo DiCaprio. John Krasinski is one of my favorite actors. I have two dogs. I like to cuddle with my dogs while I read.
+[Session 3]
+Speaker 1: I go to school. I went to a book store recently. I followed around a man at the bookstore that looked like a famous actor. The Office is my favorite show. I have watched the entire series of my favorite show 3 times. I want them to make a spinoff of The Office.
+Speaker 2: I like John Krasinski. I like the Office and the movie A Quiet Place. I watch The Office while I work out.",n,
+session_5/test/87|1|55bb0742|removal,Speaker 2,I love and appreciate our planet.,I love and appreciate our planet.,"[0.0774, 0.7121, 0.2105]","[Session 1]
+Speaker 1: I go fishing. My fishing trips occur frequently. I keep the fish I catch and eat them. I work at a doctor's office. I work many hours. I am a doctor's assistant. I am not married. I move around a lot for my job. I live alone in a condo.
+Speaker 2: I've never been fishing. I'm a vegan. I like going to the gym. I am not employed. My husband is a lawyer. I enjoy the fact that I do not work.
+[Session 2]
+Speaker 1: i like to fish. i dont workout at the gym because i am so active fishing. i dont really like cardio. i am active in daily life at my house and office.
+Speaker 2: i work out at the gym a lot. i do weight training, squats and deadlifts. i dont really enjoy cardio. i have never been fishing but would like to go.
+[Session 3]
+Speaker 1: I enjoy fishing. I know how to fish. I am not vegan. I eat fish. I work as a doctor's assisstant.
+Speaker 2: I enjoy fishing. I do not know how to fish. I am a vegan. I am a body-builder and go to the gym. I have a husband.
+[Session 4]
+Speaker 1: Recently bought fishing gear. I was vegan. I am a doctor's assistant.
+Speaker 2: I am a vegan. I care about climate change. I don't like handling worms.",y,I care about climate change.
+session_5/test/161|1|93c1a718|removal,Speaker 2,I am an inquisitive person.,I am an inquisitive person.,"[0.5316, 0.0543, 0.414]","[Session 1]
+Speaker 1: I have 5 dogs and 3 rats. I like to read and I'm in college. I use coupons at McDonald's. I don't have siblings. I like to paint. I like walking at sunset. I don't usually sell my paintings.
+Speaker 2: I like to read. I work at McDonald's. I like to garden and I like roses and ferns. I have a sister. I don't earn that much at McDonald's. I hate horror movies.
+[Session 2]
+Speaker 1: I paint,. Im in college and I have five dogs. I’m interested in art history.
+Speaker 2: I read and garden. I love biographies. I work at McDonald’s.
+[Session 3]
+Speaker 1: I like gardens. I am knowledgeable about art. I have a decent memory for Monet's paintings. I am knowledgeable about the art style, Impressionism.
+Speaker 2: I have a medium-sized garden. I am not knowledgeable about art history. I like learning about new things. I do not understand the principles of Impressionism.
+[Session 4]
+Speaker 1: I am a painter. I painted a still life picture of roses. My painting is a still life piece similar to Monet. Painting is a hobby for me.
+Speaker 2: I have a sister. I don't know much about art. I planted roses.",y,I like learning about new things.
+session_4/test/81|1|ac4ea845|removal,Speaker 2,I think dealing with contractors is a pain.,I think dealing with contractors is a pain.,"[0.0333, 0.9289, 0.0377]","[Session 1]
+Speaker 1: I go to school. We have a dog and a cat. I live with my mother. My father is a steel worker. I have homework.
+Speaker 2: I need new furniture. I have a pet. I have two dogs. I'm renovating the house. We're having workers in. I work at the mall. I have a grill. I eat steak.
+[Session 2]
+Speaker 1: I am not very handy. My mom is not very handy either and I take after her. I am studying nuclear physics. School takes up a lot of my time. I try to explain the work load to my parents but they don't understand. My dad works at the steel mills.
+Speaker 2: I am renovating my home. I can do some of the basic renovations myself like the painting. It is hard to get stuff done with my work schedule. I work at the mall in the central security office. I watch cameras all day.
+[Session 3]
+Speaker 1: I have been very busy studying. I have a pet dog and cat. My pets are demanding. My parents are not college graduates. My parents do not understand how busy I am. My animals miss my attention, because I am busy at school. I feel smothered by my mother and my pets. My mother nags me a lot.
+Speaker 2: I have 2 dogs. I work at a mall. My dogs are demanding. I am renovating my kitchen soon. My kitchen is outdated. I own my home. I have enough money to make renovations to my kitchen.",n,
+session_4/test/105|0|c5cc7d10|removal,Speaker 1,I make assumptions sometimes.,I make assumptions sometimes.,"[0.11, 0.8254, 0.0646]","[Session 1]
+Speaker 1: I like watching movies on Netflix. I am a senior citizen. I watched Spiderman. I have eight grand kids. I have a mother who used to be a librarian. I am a quiet person.
+Speaker 2: I love watching movies. I like punk rock. I watch videos on Youtube. I work at a warehouse. I stay to myself.
+[Session 2]
+Speaker 1: I like the Ramones. I used to go to college. I stayed at a dorm. I watched the Ramones perform at the festival in my college from my dorm room. I went to Rutgers University. My dorm wasn't coed.
+Speaker 2: My favorite punk rock band is the Puddle Monkeys. I like some of the Ramones. I haven't been to a concert for the Puddle Monkeys. I used to go to a trade school near my home. I didn't finish my studies though.
+[Session 3]
+Speaker 1: I watch movies.I have a netflix account. I like watching the Queen's Gambit show. I listen to what others talk about.
+Speaker 2: I love watching movies. I don't have a netflix account. I have a low paying job.I work at a warehouse. I manage my money. I am usually busy. I like punk rock. I watch youtube. I like music,gaming, and comedy content. I have my own opinion.",n,
+session_5/test/470|1|9e743bf2|removal,Speaker 2,I am not making much progress in my training.,I am not making much progress in my training.,"[0.7323, 0.0263, 0.2415]","[Session 1]
+Speaker 1: I love to swim. I am a good debater. I enjoy computer programming. I just started a new job as a prison guard. I have spent time in jail. I have been to jail and to prison.
+[Session 2]
+Speaker 1: I work in a prison. I have been to jail. I work at night. I go swimming. I'm interested in computer programming.
+Speaker 2: I live near a pool. I go swimming occasionally.I don't have a gym membership. I'm a middle school teacher.
+[Session 3]
+Speaker 1: I have a job. I recently got a raise. I live in a house. I want a swimming pool. I live 30 minutes away from a public swimming pool. I don't like to wake up early. I begin working at 8 am. I enjoy sleeping in. I work at a prison.
+Speaker 2: I have a back yard. I like swimming pools. I don't have room for a swimming pool. I live near a public swimming pool. Sometimes I swim at the public swimming pool. I have a job. I usually go to the public swimming pool before 6 am. I go to work right after I swim at the pool.
+[Session 4]
+Speaker 1: I go running and swimming every night. I can run a mile in 7 minutes. I run a mile in 9 minutes comfortably.
+Speaker 2: I am a teacher. I am training for the Iron Man. I run a mile in just under nine. I would like to do the Iron Man in Hawaii in October. I have trouble being motivated. I feel like I have bronchitis after I run. I need to make an appointment with a doctor.",y,I have trouble being motivated.
+session_5/test/51|1|ef6d4877|removal,Speaker 2,We complement each other.,We complement each other.,"[0.567, 0.031, 0.402]","[Session 1]
+Speaker 1: I love art. I am learning to oil paint. I have a wife. I have a tattoo of my wife's name. My wife's name is Rose. My mom is not well. I help my mom a lot.
+Speaker 2: I went to NYC to see the graffiti. I got my fifth tattoo in NYC. I can't paint. My fifth tattoo is of a small tiger head. I own my mom's coffee shop. I work at a coffee shop.
+[Session 2]
+Speaker 1: I help my friends with their needs. I only have one tattoo. I don't want any more tattoos. I have a wife. I think people find tattoos addictive.
+Speaker 2: I work at my mother's coffee shop. I have several tattoos. I would like to get more tattoos. I got my first tattoo when I was 21.
+[Session 3]
+Speaker 1: I was worried about my mother. My mom was sick. It was difficult when my mom was sick. I really love my mom. I argue with my mom sometimes. I do not work with my mom. It has been difficult when my mother was sick.
+Speaker 2: I'm happy your mother is ok. My mother owns a coffee shop. I own a coffee shop. I work well with my mother.
+[Session 4]
+Speaker 1: I only have one tattoo. Me and my mom argue a lot. She's ill and needs a lot of help. I find her illness stressful. I work and take care of my mom. I'm married. She might get a tattoo. My mom's been feeling better lately. My wife has good impulse control. I don't have so much. I oil paint.
+Speaker 2: I have a lot of tattoos. I want to get more. I'm very creative about making my tattoos work together. I think tattoos are addictive. I work with my mom. I think tattoos are very personal. I know a lot of tattoo artists. I work at a coffee shop.",y,I work well with my mother.
+session_4/test/4|0|469c5d1c|removal,Speaker 1,I don't have a lot of time for myself.,I don't have a lot of time for myself.,"[0.8457, 0.0141, 0.1402]","[Session 1]
+Speaker 1: I like poached eggs. I like sunsets more than I like movies. I have a secondary job as a plumber. My job as a plumber is messy.
+Speaker 2: I like healthy food. I like movies. I am a mom. I usually watch movies with my kids. I do not have a job and am a stay at home mom. I live in California.
+[Session 2]
+Speaker 1: I like sunsets. I do not live on the west coast. I do not like sand. The beach is my favorite place to watch sunsets. I think Disney movies are good.
+Speaker 2: I like movies more than sunsets. I live in California. I have children. I like to swim. I do not like the sand at the beach. My kids love the beach. I watch movies with my kids. My kids like Disney movies. I like romance movies and some horror movies. My kids are school-age.
+[Session 3]
+Speaker 1: I booked a Hawaii Sunset tour next month. I've never done a sunset tour before. I am generous. I work two jobs. I like watching sunsets.
+Speaker 2: I have kids. I have kids in school. I am a stay at home mom. I am busy. I love romance movies. I have a partner.",y,I work two jobs.

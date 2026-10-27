@@ -1,0 +1,156 @@
+{
+  "n_probes": 9000,
+  "n_S": 1380,
+  "metrics": {
+    "PA": {
+      "value": 0.92,
+      "ci_low": 0.9066666666666666,
+      "ci_high": 0.934,
+      "n": 1500
+    },
+    "EN": {
+      "value": 0.8358695652173913,
+      "ci_low": 0.8217391304347826,
+      "ci_high": 0.8492753623188406,
+      "n": 2760
+    },
+    "EI": {
+      "value": 0.9713768115942029,
+      "ci_low": 0.9655797101449275,
+      "ci_high": 0.9775362318840579,
+      "n": 2760
+    },
+    "SAA": {
+      "value": 0.9793478260869565,
+      "ci_low": 0.9739130434782609,
+      "ci_high": 0.9840579710144928,
+      "n": 2760
+    }
+  },
+  "per_variant": {
+    "original": {
+      "acc_all": 0.92,
+      "acc_on_S": 1.0
+    },
+    "removal": {
+      "acc_all": 0.8486666666666667,
+      "acc_on_S": 0.8420289855072464
+    },
+    "subst_content": {
+      "acc_all": 0.81,
+      "acc_on_S": 0.8297101449275363
+    },
+    "subst_speaker": {
+      "acc_all": 0.9493333333333334,
+      "acc_on_S": 0.946376811594203
+    },
+    "distractor_irrelevant": {
+      "acc_all": 0.9153333333333333,
+      "acc_on_S": 0.9739130434782609
+    },
+    "distractor_other": {
+      "acc_all": 0.9066666666666666,
+      "acc_on_S": 0.9688405797101449
+    }
+  },
+  "attribution_gap": {
+    "value": -0.10434782608695652,
+    "ci_low": -0.12318840579710146,
+    "ci_high": -0.08623188405797101,
+    "n": 1380
+  },
+  "gap_contingency": {
+    "removal_ok&speaker_ok": 1142,
+    "removal_ok&speaker_wrong": 20,
+    "removal_wrong&speaker_ok": 164,
+    "both_wrong": 54
+  },
+  "choice_distribution_on_S": {
+    "original": {
+      "gold": 1.0
+    },
+    "removal": {
+      "none": 0.842,
+      "gold": 0.1507,
+      "foil": 0.0072
+    },
+    "subst_content": {
+      "new": 0.8297,
+      "none": 0.0899,
+      "old": 0.0804
+    },
+    "subst_speaker": {
+      "none": 0.9464,
+      "gold": 0.0413,
+      "foil": 0.0123
+    },
+    "distractor_irrelevant": {
+      "gold": 0.9739,
+      "none": 0.0246,
+      "foil": 0.0014
+    },
+    "distractor_other": {
+      "gold": 0.9688,
+      "none": 0.0312
+    }
+  },
+  "position_bias": {
+    "pred": {
+      "A": 0.2878,
+      "B": 0.3519,
+      "C": 0.3603
+    },
+    "label": {
+      "A": 0.3343,
+      "B": 0.3323,
+      "C": 0.3333
+    }
+  },
+  "by_prev_sessions": {
+    "1": {
+      "PA": 0.992,
+      "EN": 0.9502688172043011,
+      "EI": 0.9879032258064516,
+      "SAA": 0.9905913978494624,
+      "removal": 0.9274193548387096,
+      "subst_speaker": 0.9650537634408602,
+      "gap": -0.037634408602150615
+    },
+    "2": {
+      "PA": 0.904,
+      "EN": 0.8259587020648967,
+      "EI": 0.9808259587020649,
+      "SAA": 0.971976401179941,
+      "removal": 0.8289085545722714,
+      "subst_speaker": 0.9410029498525073,
+      "gap": -0.1120943952802359
+    },
+    "3": {
+      "PA": 0.9226666666666666,
+      "EN": 0.8034682080924855,
+      "EI": 0.9566473988439307,
+      "SAA": 0.9696531791907514,
+      "removal": 0.815028901734104,
+      "subst_speaker": 0.9248554913294798,
+      "gap": -0.10982658959537572
+    },
+    "4": {
+      "PA": 0.8613333333333333,
+      "EN": 0.7492260061919505,
+      "EI": 0.958204334365325,
+      "SAA": 0.9845201238390093,
+      "removal": 0.7863777089783281,
+      "subst_speaker": 0.9535603715170279,
+      "gap": -0.16718266253869973
+    }
+  },
+  "errors": {
+    "Không phụ thuộc bằng chứng (vẫn chọn fact đã bị xóa)": 208,
+    "Không nhận ra fact mới": 124,
+    "Dùng thông tin cũ (chọn fact đã bị thay)": 111,
+    "Bỏ sót bằng chứng khi có nhiễu": 77,
+    "Nhầm chủ thể (gán fact của người kia)": 57,
+    "Chọn fact không có trong ngữ cảnh": 27,
+    "Bị nhiễu kéo theo": 2
+  }
+}

@@ -1,0 +1,523 @@
+﻿base_id,variant,target_speaker,options,label_text,context,valid (y/n),note
+session_2/test/213|1|08c9b022,original,Speaker 2,I work at a computer company. | I wouldnt like having my dad around me in school. | No information,I work at a computer company.,"[Session 1]
+Speaker 1: I am Jen. I am a therapist. I like watching football. I like meeting new people. I've never been to Disney World.
+Speaker 2: I work at a computer company. I don't like sports. I like meeting new people. I like to eat pizza. I have more than 1 child. I have 3 children. We all love Disney World. We don't have other interests. My brothers or brothers-in-law like to watch football.",,
+session_2/test/213|1|08c9b022,removal,Speaker 2,I work at a computer company. | I wouldnt like having my dad around me in school. | No information,No information,"[Session 1]
+Speaker 1: I am Jen. I am a therapist. I like watching football. I like meeting new people. I've never been to Disney World.
+Speaker 2: I don't like sports. I like meeting new people. I like to eat pizza. I have more than 1 child. I have 3 children. We all love Disney World. We don't have other interests. My brothers or brothers-in-law like to watch football.",,
+session_2/test/213|1|08c9b022,subst_content,Speaker 2,I hate breaking wind in public. | I work at a computer company. | No information,I hate breaking wind in public.,"[Session 1]
+Speaker 1: I am Jen. I am a therapist. I like watching football. I like meeting new people. I've never been to Disney World.
+Speaker 2: I hate breaking wind in public. I don't like sports. I like meeting new people. I like to eat pizza. I have more than 1 child. I have 3 children. We all love Disney World. We don't have other interests. My brothers or brothers-in-law like to watch football.",,
+session_2/test/213|1|08c9b022,subst_speaker,Speaker 2,I work at a computer company. | I wouldnt like having my dad around me in school. | No information,No information,"[Session 1]
+Speaker 1: I am Jen. I am a therapist. I like watching football. I like meeting new people. I've never been to Disney World. I work at a computer company.
+Speaker 2: I don't like sports. I like meeting new people. I like to eat pizza. I have more than 1 child. I have 3 children. We all love Disney World. We don't have other interests. My brothers or brothers-in-law like to watch football.",,
+session_2/test/213|1|08c9b022,distractor_irrelevant,Speaker 2,I work at a computer company. | I wouldnt like having my dad around me in school. | No information,I work at a computer company.,"[Session 1]
+Speaker 1: I am Jen. I am a therapist. I like watching football. I like meeting new people. I've never been to Disney World. The Alchemist by Paulo Coelho is one of my favorites.
+Speaker 2: I work at a computer company. I don't like sports. I like meeting new people. I like to eat pizza. I have more than 1 child. I have 3 children. We all love Disney World. We don't have other interests. My brothers or brothers-in-law like to watch football. Is going to Amazon. I don't think I'd like smelling like a fast food restaurant.",,
+session_2/test/213|1|08c9b022,distractor_other,Speaker 2,I work at a computer company. | I wouldnt like having my dad around me in school. | No information,I work at a computer company.,"[Session 1]
+Speaker 1: I am Jen. I am a therapist. I like watching football. I like meeting new people. I've never been to Disney World. I wouldnt like having my dad around me in school.
+Speaker 2: I work at a computer company. I don't like sports. I like meeting new people. I like to eat pizza. I have more than 1 child. I have 3 children. We all love Disney World. We don't have other interests. My brothers or brothers-in-law like to watch football.",,
+session_3/test/1|1|93f0e13f,original,Speaker 2,I am content with my life now. | I like watching the sunrise with a cup of coffee. | No information,I am content with my life now.,"[Session 1]
+Speaker 1: I play in band. I am in school. I'm in high school. I play trumpet. I live in Oklahoma City.
+Speaker 2: I drove 1000 miles to see a band. Roxy music is my favorite band. I'm from farmer stock. I like Chet Baker. I just moved to Charlotte, NC.
+[Session 2]
+Speaker 1: I have never been to a concert, aside from ones where I played with the school band. My parents are controlling. I am busy with school. I try to excel in both music and academics. I see music and academics as complementary.
+Speaker 2: I watched a concert with a talented trumpet player. The band I saw at the concert was one that my brothers took me to see perform when I was a child. I had dreams of a life involving music when I was in high school. I wish I had worked more on my music when I was in high school. I am content with my life now. I am a farmer. My parents were also farmers. My farm is in Charlotte. I grow corn, potatoes, squash and tomatoes on my farm.",,
+session_3/test/1|1|93f0e13f,removal,Speaker 2,I am content with my life now. | I like watching the sunrise with a cup of coffee. | No information,No information,"[Session 1]
+Speaker 1: I play in band. I am in school. I'm in high school. I play trumpet. I live in Oklahoma City.
+Speaker 2: I drove 1000 miles to see a band. Roxy music is my favorite band. I'm from farmer stock. I like Chet Baker. I just moved to Charlotte, NC.
+[Session 2]
+Speaker 1: I have never been to a concert, aside from ones where I played with the school band. My parents are controlling. I am busy with school. I try to excel in both music and academics. I see music and academics as complementary.
+Speaker 2: I watched a concert with a talented trumpet player. The band I saw at the concert was one that my brothers took me to see perform when I was a child. I had dreams of a life involving music when I was in high school. I wish I had worked more on my music when I was in high school. I am a farmer. My parents were also farmers. My farm is in Charlotte. I grow corn, potatoes, squash and tomatoes on my farm.",,
+session_3/test/1|1|93f0e13f,subst_content,Speaker 2,I didn't know much about pigs. | I am content with my life now. | No information,I didn't know much about pigs.,"[Session 1]
+Speaker 1: I play in band. I am in school. I'm in high school. I play trumpet. I live in Oklahoma City.
+Speaker 2: I drove 1000 miles to see a band. Roxy music is my favorite band. I'm from farmer stock. I like Chet Baker. I just moved to Charlotte, NC.
+[Session 2]
+Speaker 1: I have never been to a concert, aside from ones where I played with the school band. My parents are controlling. I am busy with school. I try to excel in both music and academics. I see music and academics as complementary.
+Speaker 2: I watched a concert with a talented trumpet player. The band I saw at the concert was one that my brothers took me to see perform when I was a child. I had dreams of a life involving music when I was in high school. I wish I had worked more on my music when I was in high school. I didn't know much about pigs. I am a farmer. My parents were also farmers. My farm is in Charlotte. I grow corn, potatoes, squash and tomatoes on my farm.",,
+session_3/test/1|1|93f0e13f,subst_speaker,Speaker 2,I am content with my life now. | I like watching the sunrise with a cup of coffee. | No information,No information,"[Session 1]
+Speaker 1: I play in band. I am in school. I'm in high school. I play trumpet. I live in Oklahoma City.
+Speaker 2: I drove 1000 miles to see a band. Roxy music is my favorite band. I'm from farmer stock. I like Chet Baker. I just moved to Charlotte, NC.
+[Session 2]
+Speaker 1: I have never been to a concert, aside from ones where I played with the school band. My parents are controlling. I am busy with school. I try to excel in both music and academics. I see music and academics as complementary. I am content with my life now.
+Speaker 2: I watched a concert with a talented trumpet player. The band I saw at the concert was one that my brothers took me to see perform when I was a child. I had dreams of a life involving music when I was in high school. I wish I had worked more on my music when I was in high school. I am a farmer. My parents were also farmers. My farm is in Charlotte. I grow corn, potatoes, squash and tomatoes on my farm.",,
+session_3/test/1|1|93f0e13f,distractor_irrelevant,Speaker 2,I am content with my life now. | I like watching the sunrise with a cup of coffee. | No information,I am content with my life now.,"[Session 1]
+Speaker 1: I play in band. I am in school. I'm in high school. I play trumpet. I live in Oklahoma City. I am insecure about leaving my twins.
+Speaker 2: I drove 1000 miles to see a band. Roxy music is my favorite band. I'm from farmer stock. I like Chet Baker. I just moved to Charlotte, NC. I am supporting Italy in the Euro soccer tournament.
+[Session 2]
+Speaker 1: I have never been to a concert, aside from ones where I played with the school band. My parents are controlling. I am busy with school. I try to excel in both music and academics. I see music and academics as complementary. I have been to Vegas once.
+Speaker 2: I watched a concert with a talented trumpet player. The band I saw at the concert was one that my brothers took me to see perform when I was a child. I had dreams of a life involving music when I was in high school. I wish I had worked more on my music when I was in high school. I am content with my life now. I am a farmer. My parents were also farmers. My farm is in Charlotte. I grow corn, potatoes, squash and tomatoes on my farm.",,
+session_3/test/1|1|93f0e13f,distractor_other,Speaker 2,I am content with my life now. | I like watching the sunrise with a cup of coffee. | No information,I am content with my life now.,"[Session 1]
+Speaker 1: I play in band. I am in school. I'm in high school. I play trumpet. I live in Oklahoma City.
+Speaker 2: I drove 1000 miles to see a band. Roxy music is my favorite band. I'm from farmer stock. I like Chet Baker. I just moved to Charlotte, NC.
+[Session 2]
+Speaker 1: I have never been to a concert, aside from ones where I played with the school band. My parents are controlling. I am busy with school. I try to excel in both music and academics. I see music and academics as complementary. I like watching the sunrise with a cup of coffee.
+Speaker 2: I watched a concert with a talented trumpet player. The band I saw at the concert was one that my brothers took me to see perform when I was a child. I had dreams of a life involving music when I was in high school. I wish I had worked more on my music when I was in high school. I am content with my life now. I am a farmer. My parents were also farmers. My farm is in Charlotte. I grow corn, potatoes, squash and tomatoes on my farm.",,
+session_3/test/36|1|f1cf4ecc,original,Speaker 2,My dad is a farmer. | I went to a New York Mets game last week. | No information,My dad is a farmer.,"[Session 1]
+Speaker 1: I live in the city. I want walk to my job. I live to read. I read a book a week. I like rock music. I do pilates for exercise. I have one brother.
+Speaker 2: I live in the country. I love nature. I love animals. I work as an Artist. I like to walk through nature. I like country music. Rock music is my favorite. I live an active lifestyle. I do not do organized exercise. My mom does pilates. My mom is a nurse. My dad is a farmer. I have a sister. I sometimes get along with my sister.
+[Session 2]
+Speaker 1: I just finished reading a book. I like Sci-fi and mystery books. I like Dan Brown books. I like Fantasy books. I like Harry Potter books. I focused on Government Politics in school.
+Speaker 2: I read fantasy books. My favorite book growing up was Redwall by Brian Jacques.",,
+session_3/test/36|1|f1cf4ecc,removal,Speaker 2,My dad is a farmer. | I went to a New York Mets game last week. | No information,No information,"[Session 1]
+Speaker 1: I live in the city. I want walk to my job. I live to read. I read a book a week. I like rock music. I do pilates for exercise. I have one brother.
+Speaker 2: I live in the country. I love nature. I love animals. I work as an Artist. I like to walk through nature. I like country music. Rock music is my favorite. I live an active lifestyle. I do not do organized exercise. My mom does pilates. My mom is a nurse. I have a sister. I sometimes get along with my sister.
+[Session 2]
+Speaker 1: I just finished reading a book. I like Sci-fi and mystery books. I like Dan Brown books. I like Fantasy books. I like Harry Potter books. I focused on Government Politics in school.
+Speaker 2: I read fantasy books. My favorite book growing up was Redwall by Brian Jacques.",,
+session_3/test/36|1|f1cf4ecc,subst_content,Speaker 2,My dad is a farmer. | My kids exhaust me. | No information,My kids exhaust me.,"[Session 1]
+Speaker 1: I live in the city. I want walk to my job. I live to read. I read a book a week. I like rock music. I do pilates for exercise. I have one brother.
+Speaker 2: I live in the country. I love nature. I love animals. I work as an Artist. I like to walk through nature. I like country music. Rock music is my favorite. I live an active lifestyle. I do not do organized exercise. My mom does pilates. My mom is a nurse. My kids exhaust me. I have a sister. I sometimes get along with my sister.
+[Session 2]
+Speaker 1: I just finished reading a book. I like Sci-fi and mystery books. I like Dan Brown books. I like Fantasy books. I like Harry Potter books. I focused on Government Politics in school.
+Speaker 2: I read fantasy books. My favorite book growing up was Redwall by Brian Jacques.",,
+session_3/test/36|1|f1cf4ecc,subst_speaker,Speaker 2,My dad is a farmer. | I went to a New York Mets game last week. | No information,No information,"[Session 1]
+Speaker 1: I live in the city. I want walk to my job. I live to read. I read a book a week. I like rock music. I do pilates for exercise. I have one brother. My dad is a farmer.
+Speaker 2: I live in the country. I love nature. I love animals. I work as an Artist. I like to walk through nature. I like country music. Rock music is my favorite. I live an active lifestyle. I do not do organized exercise. My mom does pilates. My mom is a nurse. I have a sister. I sometimes get along with my sister.
+[Session 2]
+Speaker 1: I just finished reading a book. I like Sci-fi and mystery books. I like Dan Brown books. I like Fantasy books. I like Harry Potter books. I focused on Government Politics in school.
+Speaker 2: I read fantasy books. My favorite book growing up was Redwall by Brian Jacques.",,
+session_3/test/36|1|f1cf4ecc,distractor_irrelevant,Speaker 2,My dad is a farmer. | I went to a New York Mets game last week. | No information,My dad is a farmer.,"[Session 1]
+Speaker 1: I live in the city. I want walk to my job. I live to read. I read a book a week. I like rock music. I do pilates for exercise. I have one brother. I started training in jiu jitsu.
+Speaker 2: I live in the country. I love nature. I love animals. I work as an Artist. I like to walk through nature. I like country music. Rock music is my favorite. I live an active lifestyle. I do not do organized exercise. My mom does pilates. My mom is a nurse. My dad is a farmer. I have a sister. I sometimes get along with my sister.
+[Session 2]
+Speaker 1: I just finished reading a book. I like Sci-fi and mystery books. I like Dan Brown books. I like Fantasy books. I like Harry Potter books. I focused on Government Politics in school. I'm going out of town for spring break.
+Speaker 2: I read fantasy books. My favorite book growing up was Redwall by Brian Jacques. I babysit my grandkids sometimes.",,
+session_3/test/36|1|f1cf4ecc,distractor_other,Speaker 2,My dad is a farmer. | I went to a New York Mets game last week. | No information,My dad is a farmer.,"[Session 1]
+Speaker 1: I live in the city. I want walk to my job. I live to read. I read a book a week. I like rock music. I do pilates for exercise. I have one brother. I went to a New York Mets game last week.
+Speaker 2: I live in the country. I love nature. I love animals. I work as an Artist. I like to walk through nature. I like country music. Rock music is my favorite. I live an active lifestyle. I do not do organized exercise. My mom does pilates. My mom is a nurse. My dad is a farmer. I have a sister. I sometimes get along with my sister.
+[Session 2]
+Speaker 1: I just finished reading a book. I like Sci-fi and mystery books. I like Dan Brown books. I like Fantasy books. I like Harry Potter books. I focused on Government Politics in school.
+Speaker 2: I read fantasy books. My favorite book growing up was Redwall by Brian Jacques.",,
+session_3/test/459|0|b6fb25bb,original,Speaker 1,I read a lot. | We are not a happy couple. | No information,We are not a happy couple.,"[Session 1]
+Speaker 1: My name is Charles. I don't like spicy foods. My wife and I sleep in separate bedrooms. I don't like pets. I have a twin sister, she has a dog. I drive an old Oldsmobile. Gold is my favorite metal.
+Speaker 2: My name is Tiffany. I'm tall. I have a dog named Drunky who stays outside. I drive a Subaru Legac. My favorite metal is white gold.
+[Session 2]
+Speaker 1: I have a sister. My sister has a dog. I sometimes have to dogsit for her even though I don't like pets very much. I have a wife. Sometimes my wife and I argue. We are not a happy couple. We might be separating soon. We also have two boys, which is a consideration when we think about divorcing. My little boys help me keep young. Sometimes I have back pain.
+Speaker 2: I have no children. I have a dog named Drunky. He enjoys warm weather. My parents divorced when I was ten years old. It was a positive event. I have trouble with my knees sometimes. I like going for walks. I'd like to get back in shape.",,
+session_3/test/459|0|b6fb25bb,removal,Speaker 1,I read a lot. | We are not a happy couple. | No information,No information,"[Session 1]
+Speaker 1: My name is Charles. I don't like spicy foods. My wife and I sleep in separate bedrooms. I don't like pets. I have a twin sister, she has a dog. I drive an old Oldsmobile. Gold is my favorite metal.
+Speaker 2: My name is Tiffany. I'm tall. I have a dog named Drunky who stays outside. I drive a Subaru Legac. My favorite metal is white gold.
+[Session 2]
+Speaker 1: I have a sister. My sister has a dog. I sometimes have to dogsit for her even though I don't like pets very much. I have a wife. Sometimes my wife and I argue. We might be separating soon. We also have two boys, which is a consideration when we think about divorcing. My little boys help me keep young. Sometimes I have back pain.
+Speaker 2: I have no children. I have a dog named Drunky. He enjoys warm weather. My parents divorced when I was ten years old. It was a positive event. I have trouble with my knees sometimes. I like going for walks. I'd like to get back in shape.",,
+session_3/test/459|0|b6fb25bb,subst_content,Speaker 1,We are not a happy couple. | I like amusement parks. | No information,I like amusement parks.,"[Session 1]
+Speaker 1: My name is Charles. I don't like spicy foods. My wife and I sleep in separate bedrooms. I don't like pets. I have a twin sister, she has a dog. I drive an old Oldsmobile. Gold is my favorite metal.
+Speaker 2: My name is Tiffany. I'm tall. I have a dog named Drunky who stays outside. I drive a Subaru Legac. My favorite metal is white gold.
+[Session 2]
+Speaker 1: I have a sister. My sister has a dog. I sometimes have to dogsit for her even though I don't like pets very much. I have a wife. Sometimes my wife and I argue. I like amusement parks. We might be separating soon. We also have two boys, which is a consideration when we think about divorcing. My little boys help me keep young. Sometimes I have back pain.
+Speaker 2: I have no children. I have a dog named Drunky. He enjoys warm weather. My parents divorced when I was ten years old. It was a positive event. I have trouble with my knees sometimes. I like going for walks. I'd like to get back in shape.",,
+session_3/test/459|0|b6fb25bb,subst_speaker,Speaker 1,I read a lot. | We are not a happy couple. | No information,No information,"[Session 1]
+Speaker 1: My name is Charles. I don't like spicy foods. My wife and I sleep in separate bedrooms. I don't like pets. I have a twin sister, she has a dog. I drive an old Oldsmobile. Gold is my favorite metal.
+Speaker 2: My name is Tiffany. I'm tall. I have a dog named Drunky who stays outside. I drive a Subaru Legac. My favorite metal is white gold.
+[Session 2]
+Speaker 1: I have a sister. My sister has a dog. I sometimes have to dogsit for her even though I don't like pets very much. I have a wife. Sometimes my wife and I argue. We might be separating soon. We also have two boys, which is a consideration when we think about divorcing. My little boys help me keep young. Sometimes I have back pain.
+Speaker 2: We are not a happy couple. I have no children. I have a dog named Drunky. He enjoys warm weather. My parents divorced when I was ten years old. It was a positive event. I have trouble with my knees sometimes. I like going for walks. I'd like to get back in shape.",,
+session_3/test/459|0|b6fb25bb,distractor_irrelevant,Speaker 1,I read a lot. | We are not a happy couple. | No information,We are not a happy couple.,"[Session 1]
+Speaker 1: My name is Charles. I don't like spicy foods. My wife and I sleep in separate bedrooms. I don't like pets. I have a twin sister, she has a dog. I drive an old Oldsmobile. Gold is my favorite metal.
+Speaker 2: My name is Tiffany. I'm tall. I have a dog named Drunky who stays outside. I drive a Subaru Legac. My favorite metal is white gold.
+[Session 2]
+Speaker 1: I have a sister. My sister has a dog. I sometimes have to dogsit for her even though I don't like pets very much. I have a wife. Sometimes my wife and I argue. We are not a happy couple. We might be separating soon. We also have two boys, which is a consideration when we think about divorcing. My little boys help me keep young. Sometimes I have back pain.
+Speaker 2: I have no children. I have a dog named Drunky. He enjoys warm weather. My parents divorced when I was ten years old. It was a positive event. I have trouble with my knees sometimes. I like going for walks. I'd like to get back in shape. I'm going to research what country music concerts there will be this summer. I loved riding on boats and being on the water. I still crave meat.",,
+session_3/test/459|0|b6fb25bb,distractor_other,Speaker 1,I read a lot. | We are not a happy couple. | No information,We are not a happy couple.,"[Session 1]
+Speaker 1: My name is Charles. I don't like spicy foods. My wife and I sleep in separate bedrooms. I don't like pets. I have a twin sister, she has a dog. I drive an old Oldsmobile. Gold is my favorite metal.
+Speaker 2: My name is Tiffany. I'm tall. I have a dog named Drunky who stays outside. I drive a Subaru Legac. My favorite metal is white gold.
+[Session 2]
+Speaker 1: I have a sister. My sister has a dog. I sometimes have to dogsit for her even though I don't like pets very much. I have a wife. Sometimes my wife and I argue. We are not a happy couple. We might be separating soon. We also have two boys, which is a consideration when we think about divorcing. My little boys help me keep young. Sometimes I have back pain.
+Speaker 2: I have no children. I have a dog named Drunky. He enjoys warm weather. My parents divorced when I was ten years old. It was a positive event. I have trouble with my knees sometimes. I like going for walks. I'd like to get back in shape. I read a lot.",,
+session_4/test/130|1|9bb4dea1,original,Speaker 2,I am separated from my wife. | I listen to jazz music. | No information,I am separated from my wife.,"[Session 1]
+Speaker 1: I love ice tea. I have a cat. I go to the zoo often. I grew up in big cities. I have a kitten.
+Speaker 2: I don't have pets. I am separated from my wife. I have a child. I just got to america. I worked in metal work factories.
+[Session 2]
+Speaker 1: I told my family about a kitten. I go to the zoo weekly. I like the tigers and monkeys.
+Speaker 2: I wish I had pets. I have a kid who wants to go to the zoo. My kid likes monkeys. I work.
+[Session 3]
+Speaker 1: I think monkeys are good to photograph. I think monkeys are fun. I think everyday presents a new learning opportunity.
+Speaker 2: I am going to the zoo. I like to take pictures. I have a daughter. My daughter is 8. My daughter is independent. I think monkeys are funny. My daughter goes to a good school. My daughters independence is frustrating to me. My daughters mother is gone. I find parenting hard. I have thought about getting a nanny. I think family time is important.",,
+session_4/test/130|1|9bb4dea1,removal,Speaker 2,I am separated from my wife. | I listen to jazz music. | No information,No information,"[Session 1]
+Speaker 1: I love ice tea. I have a cat. I go to the zoo often. I grew up in big cities. I have a kitten.
+Speaker 2: I don't have pets. I have a child. I just got to america. I worked in metal work factories.
+[Session 2]
+Speaker 1: I told my family about a kitten. I go to the zoo weekly. I like the tigers and monkeys.
+Speaker 2: I wish I had pets. I have a kid who wants to go to the zoo. My kid likes monkeys. I work.
+[Session 3]
+Speaker 1: I think monkeys are good to photograph. I think monkeys are fun. I think everyday presents a new learning opportunity.
+Speaker 2: I am going to the zoo. I like to take pictures. I have a daughter. My daughter is 8. My daughter is independent. I think monkeys are funny. My daughter goes to a good school. My daughters independence is frustrating to me. My daughters mother is gone. I find parenting hard. I have thought about getting a nanny. I think family time is important.",,
+session_4/test/130|1|9bb4dea1,subst_content,Speaker 2,I play on a local golf course. | I am separated from my wife. | No information,I play on a local golf course.,"[Session 1]
+Speaker 1: I love ice tea. I have a cat. I go to the zoo often. I grew up in big cities. I have a kitten.
+Speaker 2: I don't have pets. I play on a local golf course. I have a child. I just got to america. I worked in metal work factories.
+[Session 2]
+Speaker 1: I told my family about a kitten. I go to the zoo weekly. I like the tigers and monkeys.
+Speaker 2: I wish I had pets. I have a kid who wants to go to the zoo. My kid likes monkeys. I work.
+[Session 3]
+Speaker 1: I think monkeys are good to photograph. I think monkeys are fun. I think everyday presents a new learning opportunity.
+Speaker 2: I am going to the zoo. I like to take pictures. I have a daughter. My daughter is 8. My daughter is independent. I think monkeys are funny. My daughter goes to a good school. My daughters independence is frustrating to me. My daughters mother is gone. I find parenting hard. I have thought about getting a nanny. I think family time is important.",,
+session_4/test/130|1|9bb4dea1,subst_speaker,Speaker 2,I am separated from my wife. | I listen to jazz music. | No information,No information,"[Session 1]
+Speaker 1: I love ice tea. I have a cat. I go to the zoo often. I grew up in big cities. I have a kitten. I am separated from my wife.
+Speaker 2: I don't have pets. I have a child. I just got to america. I worked in metal work factories.
+[Session 2]
+Speaker 1: I told my family about a kitten. I go to the zoo weekly. I like the tigers and monkeys.
+Speaker 2: I wish I had pets. I have a kid who wants to go to the zoo. My kid likes monkeys. I work.
+[Session 3]
+Speaker 1: I think monkeys are good to photograph. I think monkeys are fun. I think everyday presents a new learning opportunity.
+Speaker 2: I am going to the zoo. I like to take pictures. I have a daughter. My daughter is 8. My daughter is independent. I think monkeys are funny. My daughter goes to a good school. My daughters independence is frustrating to me. My daughters mother is gone. I find parenting hard. I have thought about getting a nanny. I think family time is important.",,
+session_4/test/130|1|9bb4dea1,distractor_irrelevant,Speaker 2,I am separated from my wife. | I listen to jazz music. | No information,I am separated from my wife.,"[Session 1]
+Speaker 1: I love ice tea. I have a cat. I go to the zoo often. I grew up in big cities. I have a kitten. I have tried to get time off from work recently.
+Speaker 2: I don't have pets. I am separated from my wife. I have a child. I just got to america. I worked in metal work factories. I live in the midwest.
+[Session 2]
+Speaker 1: I told my family about a kitten. I go to the zoo weekly. I like the tigers and monkeys. I would love to visit Italy again.
+Speaker 2: I wish I had pets. I have a kid who wants to go to the zoo. My kid likes monkeys. I work.
+[Session 3]
+Speaker 1: I think monkeys are good to photograph. I think monkeys are fun. I think everyday presents a new learning opportunity.
+Speaker 2: I am going to the zoo. I like to take pictures. I have a daughter. My daughter is 8. My daughter is independent. I think monkeys are funny. My daughter goes to a good school. My daughters independence is frustrating to me. My daughters mother is gone. I find parenting hard. I have thought about getting a nanny. I think family time is important.",,
+session_4/test/130|1|9bb4dea1,distractor_other,Speaker 2,I am separated from my wife. | I listen to jazz music. | No information,I am separated from my wife.,"[Session 1]
+Speaker 1: I love ice tea. I have a cat. I go to the zoo often. I grew up in big cities. I have a kitten. I listen to jazz music.
+Speaker 2: I don't have pets. I am separated from my wife. I have a child. I just got to america. I worked in metal work factories.
+[Session 2]
+Speaker 1: I told my family about a kitten. I go to the zoo weekly. I like the tigers and monkeys.
+Speaker 2: I wish I had pets. I have a kid who wants to go to the zoo. My kid likes monkeys. I work.
+[Session 3]
+Speaker 1: I think monkeys are good to photograph. I think monkeys are fun. I think everyday presents a new learning opportunity.
+Speaker 2: I am going to the zoo. I like to take pictures. I have a daughter. My daughter is 8. My daughter is independent. I think monkeys are funny. My daughter goes to a good school. My daughters independence is frustrating to me. My daughters mother is gone. I find parenting hard. I have thought about getting a nanny. I think family time is important.",,
+session_4/test/150|0|ca4c81d5,original,Speaker 1,I was an athlete in high school and college. | I have a soft spot for animals that need homes. | No information,I was an athlete in high school and college.,"[Session 1]
+Speaker 1: I like the beach. I like scary movies and I have a girlfriend. I am confident as I was on the football team. I was an athlete in high school and college. I live near a coastline. I like movies and I do karate.
+Speaker 2: I need furniture. I like sports and meat. I do not eat seafood. I like Pitch Perfect.
+[Session 2]
+Speaker 1: I live in an apartment. I love IKEA. I like the look of modern, chic furniture.
+Speaker 2: I've never been to IKEA. I am interested in checking out IKEA.
+[Session 3]
+Speaker 1: I have a girlfriend. I eat a lot of meat and other proteins. I go to the gym often. I love the show ""The Blacklist"". I like the character ""Reddington"" from ""The Blacklist"". I like the movie ""Doctor Strange"".
+Speaker 2: I have not been to Ikea, but I like Ikea furniture. I love meat. I like to watch sports. I like baseball a lot. I have not seen ""Doctor Strange"".",,
+session_4/test/150|0|ca4c81d5,removal,Speaker 1,I was an athlete in high school and college. | I have a soft spot for animals that need homes. | No information,No information,"[Session 1]
+Speaker 1: I like the beach. I like scary movies and I have a girlfriend. I am confident as I was on the football team. I live near a coastline. I like movies and I do karate.
+Speaker 2: I need furniture. I like sports and meat. I do not eat seafood. I like Pitch Perfect.
+[Session 2]
+Speaker 1: I live in an apartment. I love IKEA. I like the look of modern, chic furniture.
+Speaker 2: I've never been to IKEA. I am interested in checking out IKEA.
+[Session 3]
+Speaker 1: I have a girlfriend. I eat a lot of meat and other proteins. I go to the gym often. I love the show ""The Blacklist"". I like the character ""Reddington"" from ""The Blacklist"". I like the movie ""Doctor Strange"".
+Speaker 2: I have not been to Ikea, but I like Ikea furniture. I love meat. I like to watch sports. I like baseball a lot. I have not seen ""Doctor Strange"".",,
+session_4/test/150|0|ca4c81d5,subst_content,Speaker 1,I was an athlete in high school and college. | I have one Iguana. | No information,I have one Iguana.,"[Session 1]
+Speaker 1: I like the beach. I like scary movies and I have a girlfriend. I am confident as I was on the football team. I have one Iguana. I live near a coastline. I like movies and I do karate.
+Speaker 2: I need furniture. I like sports and meat. I do not eat seafood. I like Pitch Perfect.
+[Session 2]
+Speaker 1: I live in an apartment. I love IKEA. I like the look of modern, chic furniture.
+Speaker 2: I've never been to IKEA. I am interested in checking out IKEA.
+[Session 3]
+Speaker 1: I have a girlfriend. I eat a lot of meat and other proteins. I go to the gym often. I love the show ""The Blacklist"". I like the character ""Reddington"" from ""The Blacklist"". I like the movie ""Doctor Strange"".
+Speaker 2: I have not been to Ikea, but I like Ikea furniture. I love meat. I like to watch sports. I like baseball a lot. I have not seen ""Doctor Strange"".",,
+session_4/test/150|0|ca4c81d5,subst_speaker,Speaker 1,I was an athlete in high school and college. | I have a soft spot for animals that need homes. | No information,No information,"[Session 1]
+Speaker 1: I like the beach. I like scary movies and I have a girlfriend. I am confident as I was on the football team. I live near a coastline. I like movies and I do karate.
+Speaker 2: I was an athlete in high school and college. I need furniture. I like sports and meat. I do not eat seafood. I like Pitch Perfect.
+[Session 2]
+Speaker 1: I live in an apartment. I love IKEA. I like the look of modern, chic furniture.
+Speaker 2: I've never been to IKEA. I am interested in checking out IKEA.
+[Session 3]
+Speaker 1: I have a girlfriend. I eat a lot of meat and other proteins. I go to the gym often. I love the show ""The Blacklist"". I like the character ""Reddington"" from ""The Blacklist"". I like the movie ""Doctor Strange"".
+Speaker 2: I have not been to Ikea, but I like Ikea furniture. I love meat. I like to watch sports. I like baseball a lot. I have not seen ""Doctor Strange"".",,
+session_4/test/150|0|ca4c81d5,distractor_irrelevant,Speaker 1,I was an athlete in high school and college. | I have a soft spot for animals that need homes. | No information,I was an athlete in high school and college.,"[Session 1]
+Speaker 1: I like the beach. I like scary movies and I have a girlfriend. I am confident as I was on the football team. I was an athlete in high school and college. I live near a coastline. I like movies and I do karate. Hiking is best way to get relax.
+Speaker 2: I need furniture. I like sports and meat. I do not eat seafood. I like Pitch Perfect.
+[Session 2]
+Speaker 1: I live in an apartment. I love IKEA. I like the look of modern, chic furniture.
+Speaker 2: I've never been to IKEA. I am interested in checking out IKEA.
+[Session 3]
+Speaker 1: I have a girlfriend. I eat a lot of meat and other proteins. I go to the gym often. I love the show ""The Blacklist"". I like the character ""Reddington"" from ""The Blacklist"". I like the movie ""Doctor Strange"". I am not into classic rock.
+Speaker 2: I have not been to Ikea, but I like Ikea furniture. I love meat. I like to watch sports. I like baseball a lot. I have not seen ""Doctor Strange"". Vanilla ice cream is my favorite.",,
+session_4/test/150|0|ca4c81d5,distractor_other,Speaker 1,I was an athlete in high school and college. | I have a soft spot for animals that need homes. | No information,I was an athlete in high school and college.,"[Session 1]
+Speaker 1: I like the beach. I like scary movies and I have a girlfriend. I am confident as I was on the football team. I was an athlete in high school and college. I live near a coastline. I like movies and I do karate.
+Speaker 2: I need furniture. I like sports and meat. I do not eat seafood. I like Pitch Perfect. I have a soft spot for animals that need homes.
+[Session 2]
+Speaker 1: I live in an apartment. I love IKEA. I like the look of modern, chic furniture.
+Speaker 2: I've never been to IKEA. I am interested in checking out IKEA.
+[Session 3]
+Speaker 1: I have a girlfriend. I eat a lot of meat and other proteins. I go to the gym often. I love the show ""The Blacklist"". I like the character ""Reddington"" from ""The Blacklist"". I like the movie ""Doctor Strange"".
+Speaker 2: I have not been to Ikea, but I like Ikea furniture. I love meat. I like to watch sports. I like baseball a lot. I have not seen ""Doctor Strange"".",,
+session_5/test/13|1|144efedf,original,Speaker 2,"I have not tried any new restaurants. | My profession is advertising, but I prefer work that involves creativity and art. | No information",I have not tried any new restaurants.,"[Session 1]
+Speaker 1: My dad was in the navy. My dad did not let me listen to Black Sabbath. I go to school. I like burgers and fries. I like chocolate. I have two dogs.
+Speaker 2: I love Black Sabbath. I work. I am in debt. I am out of school. I think about work all of the time. I have no pets. I love food. I like meat.
+[Session 2]
+Speaker 1: I am in university but I am also working. I am trying to avoid having student loan debt. I work as an Uber driver. I do other gig work. I live in a big city. I have thought about teaching middle school science. I prefer researching over teaching. I am studying social science.
+Speaker 2: I work a lot. I haven't taken any days off lately. I am in a lot of debt. I work as a grocery store clerk. I am looking for a job in education. I have graduated from university. I majored in math. I want to teach high school math. I think if teaching doesn't work out, I will consider research. I have not tried any new restaurants. I eat a lot of fast food.
+[Session 3]
+Speaker 1: I love the big burgers from Five Guys. My go-to order for Five Guys is a double burger with lettuce, tomato, cheese, ketchup, mayo, and mustard. I order small fries from Five Guys and share with my children. I am thinking of trying Door Dash so I can compare it with the money I get from Uber. I have had bad experienced with driving people around because talked crap about my car. I have kicked people out of my car for talking crap. I am now picky about who I drive around.
+Speaker 2: I love all fast food except for McDonald's. I find McDonald's to be bland. I just got a Five Guys in my town but it doesn't have a drive thru. I am lazy. I will try Five Guys soon. I have thought about doing Door Dash because I love fast food.
+[Session 4]
+Speaker 1: I've tried cooking with recipes. I got a job at Door Dash. I used to work for Uber. I have friends who graduated college.
+Speaker 2: I work at a grocery store. I get a discount at work. I've tried recipes. I want to try Five Guys. I'm familiar with food delivery apps. I'm looking for work in education. I haven't studied French in a long time. I double minored in math and French in college.",,
+session_5/test/13|1|144efedf,removal,Speaker 2,"I have not tried any new restaurants. | My profession is advertising, but I prefer work that involves creativity and art. | No information",No information,"[Session 1]
+Speaker 1: My dad was in the navy. My dad did not let me listen to Black Sabbath. I go to school. I like burgers and fries. I like chocolate. I have two dogs.
+Speaker 2: I love Black Sabbath. I work. I am in debt. I am out of school. I think about work all of the time. I have no pets. I love food. I like meat.
+[Session 2]
+Speaker 1: I am in university but I am also working. I am trying to avoid having student loan debt. I work as an Uber driver. I do other gig work. I live in a big city. I have thought about teaching middle school science. I prefer researching over teaching. I am studying social science.
+Speaker 2: I work a lot. I haven't taken any days off lately. I am in a lot of debt. I work as a grocery store clerk. I am looking for a job in education. I have graduated from university. I majored in math. I want to teach high school math. I think if teaching doesn't work out, I will consider research. I eat a lot of fast food.
+[Session 3]
+Speaker 1: I love the big burgers from Five Guys. My go-to order for Five Guys is a double burger with lettuce, tomato, cheese, ketchup, mayo, and mustard. I order small fries from Five Guys and share with my children. I am thinking of trying Door Dash so I can compare it with the money I get from Uber. I have had bad experienced with driving people around because talked crap about my car. I have kicked people out of my car for talking crap. I am now picky about who I drive around.
+Speaker 2: I love all fast food except for McDonald's. I find McDonald's to be bland. I just got a Five Guys in my town but it doesn't have a drive thru. I am lazy. I will try Five Guys soon. I have thought about doing Door Dash because I love fast food.
+[Session 4]
+Speaker 1: I've tried cooking with recipes. I got a job at Door Dash. I used to work for Uber. I have friends who graduated college.
+Speaker 2: I work at a grocery store. I get a discount at work. I've tried recipes. I want to try Five Guys. I'm familiar with food delivery apps. I'm looking for work in education. I haven't studied French in a long time. I double minored in math and French in college.",,
+session_5/test/13|1|144efedf,subst_content,Speaker 2,They are Alsatians and are doing great. | I have not tried any new restaurants. | No information,They are Alsatians and are doing great.,"[Session 1]
+Speaker 1: My dad was in the navy. My dad did not let me listen to Black Sabbath. I go to school. I like burgers and fries. I like chocolate. I have two dogs.
+Speaker 2: I love Black Sabbath. I work. I am in debt. I am out of school. I think about work all of the time. I have no pets. I love food. I like meat.
+[Session 2]
+Speaker 1: I am in university but I am also working. I am trying to avoid having student loan debt. I work as an Uber driver. I do other gig work. I live in a big city. I have thought about teaching middle school science. I prefer researching over teaching. I am studying social science.
+Speaker 2: I work a lot. I haven't taken any days off lately. I am in a lot of debt. I work as a grocery store clerk. I am looking for a job in education. I have graduated from university. I majored in math. I want to teach high school math. I think if teaching doesn't work out, I will consider research. They are Alsatians and are doing great. I eat a lot of fast food.
+[Session 3]
+Speaker 1: I love the big burgers from Five Guys. My go-to order for Five Guys is a double burger with lettuce, tomato, cheese, ketchup, mayo, and mustard. I order small fries from Five Guys and share with my children. I am thinking of trying Door Dash so I can compare it with the money I get from Uber. I have had bad experienced with driving people around because talked crap about my car. I have kicked people out of my car for talking crap. I am now picky about who I drive around.
+Speaker 2: I love all fast food except for McDonald's. I find McDonald's to be bland. I just got a Five Guys in my town but it doesn't have a drive thru. I am lazy. I will try Five Guys soon. I have thought about doing Door Dash because I love fast food.
+[Session 4]
+Speaker 1: I've tried cooking with recipes. I got a job at Door Dash. I used to work for Uber. I have friends who graduated college.
+Speaker 2: I work at a grocery store. I get a discount at work. I've tried recipes. I want to try Five Guys. I'm familiar with food delivery apps. I'm looking for work in education. I haven't studied French in a long time. I double minored in math and French in college.",,
+session_5/test/13|1|144efedf,subst_speaker,Speaker 2,"I have not tried any new restaurants. | My profession is advertising, but I prefer work that involves creativity and art. | No information",No information,"[Session 1]
+Speaker 1: My dad was in the navy. My dad did not let me listen to Black Sabbath. I go to school. I like burgers and fries. I like chocolate. I have two dogs.
+Speaker 2: I love Black Sabbath. I work. I am in debt. I am out of school. I think about work all of the time. I have no pets. I love food. I like meat.
+[Session 2]
+Speaker 1: I am in university but I am also working. I am trying to avoid having student loan debt. I work as an Uber driver. I do other gig work. I live in a big city. I have thought about teaching middle school science. I prefer researching over teaching. I am studying social science. I have not tried any new restaurants.
+Speaker 2: I work a lot. I haven't taken any days off lately. I am in a lot of debt. I work as a grocery store clerk. I am looking for a job in education. I have graduated from university. I majored in math. I want to teach high school math. I think if teaching doesn't work out, I will consider research. I eat a lot of fast food.
+[Session 3]
+Speaker 1: I love the big burgers from Five Guys. My go-to order for Five Guys is a double burger with lettuce, tomato, cheese, ketchup, mayo, and mustard. I order small fries from Five Guys and share with my children. I am thinking of trying Door Dash so I can compare it with the money I get from Uber. I have had bad experienced with driving people around because talked crap about my car. I have kicked people out of my car for talking crap. I am now picky about who I drive around.
+Speaker 2: I love all fast food except for McDonald's. I find McDonald's to be bland. I just got a Five Guys in my town but it doesn't have a drive thru. I am lazy. I will try Five Guys soon. I have thought about doing Door Dash because I love fast food.
+[Session 4]
+Speaker 1: I've tried cooking with recipes. I got a job at Door Dash. I used to work for Uber. I have friends who graduated college.
+Speaker 2: I work at a grocery store. I get a discount at work. I've tried recipes. I want to try Five Guys. I'm familiar with food delivery apps. I'm looking for work in education. I haven't studied French in a long time. I double minored in math and French in college.",,
+session_5/test/13|1|144efedf,distractor_irrelevant,Speaker 2,"I have not tried any new restaurants. | My profession is advertising, but I prefer work that involves creativity and art. | No information",I have not tried any new restaurants.,"[Session 1]
+Speaker 1: My dad was in the navy. My dad did not let me listen to Black Sabbath. I go to school. I like burgers and fries. I like chocolate. I have two dogs. I love watching children running around and burning energy.
+Speaker 2: I love Black Sabbath. I work. I am in debt. I am out of school. I think about work all of the time. I have no pets. I love food. I like meat.
+[Session 2]
+Speaker 1: I am in university but I am also working. I am trying to avoid having student loan debt. I work as an Uber driver. I do other gig work. I live in a big city. I have thought about teaching middle school science. I prefer researching over teaching. I am studying social science.
+Speaker 2: I work a lot. I haven't taken any days off lately. I am in a lot of debt. I work as a grocery store clerk. I am looking for a job in education. I have graduated from university. I majored in math. I want to teach high school math. I think if teaching doesn't work out, I will consider research. I have not tried any new restaurants. I eat a lot of fast food. I do not recommend that Speaker 2 visit his date in person because that seems abrasive.
+[Session 3]
+Speaker 1: I love the big burgers from Five Guys. My go-to order for Five Guys is a double burger with lettuce, tomato, cheese, ketchup, mayo, and mustard. I order small fries from Five Guys and share with my children. I am thinking of trying Door Dash so I can compare it with the money I get from Uber. I have had bad experienced with driving people around because talked crap about my car. I have kicked people out of my car for talking crap. I am now picky about who I drive around.
+Speaker 2: I love all fast food except for McDonald's. I find McDonald's to be bland. I just got a Five Guys in my town but it doesn't have a drive thru. I am lazy. I will try Five Guys soon. I have thought about doing Door Dash because I love fast food.
+[Session 4]
+Speaker 1: I've tried cooking with recipes. I got a job at Door Dash. I used to work for Uber. I have friends who graduated college. The weather in Kansas City is cold right now.
+Speaker 2: I work at a grocery store. I get a discount at work. I've tried recipes. I want to try Five Guys. I'm familiar with food delivery apps. I'm looking for work in education. I haven't studied French in a long time. I double minored in math and French in college.",,
+session_5/test/13|1|144efedf,distractor_other,Speaker 2,"I have not tried any new restaurants. | My profession is advertising, but I prefer work that involves creativity and art. | No information",I have not tried any new restaurants.,"[Session 1]
+Speaker 1: My dad was in the navy. My dad did not let me listen to Black Sabbath. I go to school. I like burgers and fries. I like chocolate. I have two dogs.
+Speaker 2: I love Black Sabbath. I work. I am in debt. I am out of school. I think about work all of the time. I have no pets. I love food. I like meat.
+[Session 2]
+Speaker 1: I am in university but I am also working. I am trying to avoid having student loan debt. I work as an Uber driver. I do other gig work. I live in a big city. I have thought about teaching middle school science. I prefer researching over teaching. I am studying social science. My profession is advertising, but I prefer work that involves creativity and art.
+Speaker 2: I work a lot. I haven't taken any days off lately. I am in a lot of debt. I work as a grocery store clerk. I am looking for a job in education. I have graduated from university. I majored in math. I want to teach high school math. I think if teaching doesn't work out, I will consider research. I have not tried any new restaurants. I eat a lot of fast food.
+[Session 3]
+Speaker 1: I love the big burgers from Five Guys. My go-to order for Five Guys is a double burger with lettuce, tomato, cheese, ketchup, mayo, and mustard. I order small fries from Five Guys and share with my children. I am thinking of trying Door Dash so I can compare it with the money I get from Uber. I have had bad experienced with driving people around because talked crap about my car. I have kicked people out of my car for talking crap. I am now picky about who I drive around.
+Speaker 2: I love all fast food except for McDonald's. I find McDonald's to be bland. I just got a Five Guys in my town but it doesn't have a drive thru. I am lazy. I will try Five Guys soon. I have thought about doing Door Dash because I love fast food.
+[Session 4]
+Speaker 1: I've tried cooking with recipes. I got a job at Door Dash. I used to work for Uber. I have friends who graduated college.
+Speaker 2: I work at a grocery store. I get a discount at work. I've tried recipes. I want to try Five Guys. I'm familiar with food delivery apps. I'm looking for work in education. I haven't studied French in a long time. I double minored in math and French in college.",,
+session_5/test/258|0|d6c31287,original,Speaker 1,"I don't have kids, likes quiet and solitude. | I enjoy staying up on current events. | No information",I enjoy staying up on current events.,"[Session 1]
+Speaker 1: I have a favorite sweat suit. I am an eyewear designer. I have red hair. I am a man. I like to shop. I enjoy staying up on current events. It's tough for me to get away from work for a vacation.
+Speaker 2: I work as a gator hunter. I have been in trouble with the law, which makes it difficult for me to find work. I love cars. I love road trips. I'm saving to buy a 1981 Camaro. I don't like cities. I own an air boat, which I ride on swamps. I love the outdoors.
+[Session 2]
+Speaker 1: I design eyewear for a living. I recently bought a very comfortable neckpillow. I want to go on vacation. I'm hoping to go to Seattle for an eyewear design conference.
+Speaker 2: I work with alligators. An alligator once tried to chew on me. I have an airboat. I have a neckpillow, and I love it for traveling and relaxing. I love road trips. I'm planning to get a Camaro. I want to go to Big Sur.
+[Session 3]
+Speaker 1: Speaker 1 has booked a trip to Seattle. Speaker 1 will book a trip to Seattle by the end of the month. Speaker 1 would like to visit the space needle.
+Speaker 2: Speaker 2 has been to Seattle. It is or will be summer by the end of the month. Speaker 2 likes the outdoors. Speaker 2 visited Seattle when they were a kid. Speaker 2 likes the water. Speaker 1 and Speaker 2 have neck pillows. Speaker 2 likes alligators. Speaker 2 likes shopping.
+[Session 4]
+Speaker 1: I design eyewear. I took time off work. I am going to Seattle. I enjoy the outdoors and the city. I've never been to California.
+Speaker 2: I went to Seattle as a kid I prefer outdoors. I have trouble finding work. I'm saving for my dream car. I am a gator hunter. I have trouble getting a license for gator hunting. My backup plan is working with cars. My dream car is a 1981 Camaro because my father had one. I've been saving for my car for years. I'd like a Camaro with some blue.",,
+session_5/test/258|0|d6c31287,removal,Speaker 1,"I don't have kids, likes quiet and solitude. | I enjoy staying up on current events. | No information",No information,"[Session 1]
+Speaker 1: I have a favorite sweat suit. I am an eyewear designer. I have red hair. I am a man. I like to shop. It's tough for me to get away from work for a vacation.
+Speaker 2: I work as a gator hunter. I have been in trouble with the law, which makes it difficult for me to find work. I love cars. I love road trips. I'm saving to buy a 1981 Camaro. I don't like cities. I own an air boat, which I ride on swamps. I love the outdoors.
+[Session 2]
+Speaker 1: I design eyewear for a living. I recently bought a very comfortable neckpillow. I want to go on vacation. I'm hoping to go to Seattle for an eyewear design conference.
+Speaker 2: I work with alligators. An alligator once tried to chew on me. I have an airboat. I have a neckpillow, and I love it for traveling and relaxing. I love road trips. I'm planning to get a Camaro. I want to go to Big Sur.
+[Session 3]
+Speaker 1: Speaker 1 has booked a trip to Seattle. Speaker 1 will book a trip to Seattle by the end of the month. Speaker 1 would like to visit the space needle.
+Speaker 2: Speaker 2 has been to Seattle. It is or will be summer by the end of the month. Speaker 2 likes the outdoors. Speaker 2 visited Seattle when they were a kid. Speaker 2 likes the water. Speaker 1 and Speaker 2 have neck pillows. Speaker 2 likes alligators. Speaker 2 likes shopping.
+[Session 4]
+Speaker 1: I design eyewear. I took time off work. I am going to Seattle. I enjoy the outdoors and the city. I've never been to California.
+Speaker 2: I went to Seattle as a kid I prefer outdoors. I have trouble finding work. I'm saving for my dream car. I am a gator hunter. I have trouble getting a license for gator hunting. My backup plan is working with cars. My dream car is a 1981 Camaro because my father had one. I've been saving for my car for years. I'd like a Camaro with some blue.",,
+session_5/test/258|0|d6c31287,subst_content,Speaker 1,I wish I didn't have a boss. | I enjoy staying up on current events. | No information,I wish I didn't have a boss.,"[Session 1]
+Speaker 1: I have a favorite sweat suit. I am an eyewear designer. I have red hair. I am a man. I like to shop. I wish I didn't have a boss. It's tough for me to get away from work for a vacation.
+Speaker 2: I work as a gator hunter. I have been in trouble with the law, which makes it difficult for me to find work. I love cars. I love road trips. I'm saving to buy a 1981 Camaro. I don't like cities. I own an air boat, which I ride on swamps. I love the outdoors.
+[Session 2]
+Speaker 1: I design eyewear for a living. I recently bought a very comfortable neckpillow. I want to go on vacation. I'm hoping to go to Seattle for an eyewear design conference.
+Speaker 2: I work with alligators. An alligator once tried to chew on me. I have an airboat. I have a neckpillow, and I love it for traveling and relaxing. I love road trips. I'm planning to get a Camaro. I want to go to Big Sur.
+[Session 3]
+Speaker 1: Speaker 1 has booked a trip to Seattle. Speaker 1 will book a trip to Seattle by the end of the month. Speaker 1 would like to visit the space needle.
+Speaker 2: Speaker 2 has been to Seattle. It is or will be summer by the end of the month. Speaker 2 likes the outdoors. Speaker 2 visited Seattle when they were a kid. Speaker 2 likes the water. Speaker 1 and Speaker 2 have neck pillows. Speaker 2 likes alligators. Speaker 2 likes shopping.
+[Session 4]
+Speaker 1: I design eyewear. I took time off work. I am going to Seattle. I enjoy the outdoors and the city. I've never been to California.
+Speaker 2: I went to Seattle as a kid I prefer outdoors. I have trouble finding work. I'm saving for my dream car. I am a gator hunter. I have trouble getting a license for gator hunting. My backup plan is working with cars. My dream car is a 1981 Camaro because my father had one. I've been saving for my car for years. I'd like a Camaro with some blue.",,
+session_5/test/258|0|d6c31287,subst_speaker,Speaker 1,"I don't have kids, likes quiet and solitude. | I enjoy staying up on current events. | No information",No information,"[Session 1]
+Speaker 1: I have a favorite sweat suit. I am an eyewear designer. I have red hair. I am a man. I like to shop. It's tough for me to get away from work for a vacation.
+Speaker 2: I enjoy staying up on current events. I work as a gator hunter. I have been in trouble with the law, which makes it difficult for me to find work. I love cars. I love road trips. I'm saving to buy a 1981 Camaro. I don't like cities. I own an air boat, which I ride on swamps. I love the outdoors.
+[Session 2]
+Speaker 1: I design eyewear for a living. I recently bought a very comfortable neckpillow. I want to go on vacation. I'm hoping to go to Seattle for an eyewear design conference.
+Speaker 2: I work with alligators. An alligator once tried to chew on me. I have an airboat. I have a neckpillow, and I love it for traveling and relaxing. I love road trips. I'm planning to get a Camaro. I want to go to Big Sur.
+[Session 3]
+Speaker 1: Speaker 1 has booked a trip to Seattle. Speaker 1 will book a trip to Seattle by the end of the month. Speaker 1 would like to visit the space needle.
+Speaker 2: Speaker 2 has been to Seattle. It is or will be summer by the end of the month. Speaker 2 likes the outdoors. Speaker 2 visited Seattle when they were a kid. Speaker 2 likes the water. Speaker 1 and Speaker 2 have neck pillows. Speaker 2 likes alligators. Speaker 2 likes shopping.
+[Session 4]
+Speaker 1: I design eyewear. I took time off work. I am going to Seattle. I enjoy the outdoors and the city. I've never been to California.
+Speaker 2: I went to Seattle as a kid I prefer outdoors. I have trouble finding work. I'm saving for my dream car. I am a gator hunter. I have trouble getting a license for gator hunting. My backup plan is working with cars. My dream car is a 1981 Camaro because my father had one. I've been saving for my car for years. I'd like a Camaro with some blue.",,
+session_5/test/258|0|d6c31287,distractor_irrelevant,Speaker 1,"I don't have kids, likes quiet and solitude. | I enjoy staying up on current events. | No information",I enjoy staying up on current events.,"[Session 1]
+Speaker 1: I have a favorite sweat suit. I am an eyewear designer. I have red hair. I am a man. I like to shop. I enjoy staying up on current events. It's tough for me to get away from work for a vacation. I am on the track team.
+Speaker 2: I work as a gator hunter. I have been in trouble with the law, which makes it difficult for me to find work. I love cars. I love road trips. I'm saving to buy a 1981 Camaro. I don't like cities. I own an air boat, which I ride on swamps. I love the outdoors.
+[Session 2]
+Speaker 1: I design eyewear for a living. I recently bought a very comfortable neckpillow. I want to go on vacation. I'm hoping to go to Seattle for an eyewear design conference. I can't wait to see the new conjuring movie. My daughters like scary movies.
+Speaker 2: I work with alligators. An alligator once tried to chew on me. I have an airboat. I have a neckpillow, and I love it for traveling and relaxing. I love road trips. I'm planning to get a Camaro. I want to go to Big Sur.
+[Session 3]
+Speaker 1: Speaker 1 has booked a trip to Seattle. Speaker 1 will book a trip to Seattle by the end of the month. Speaker 1 would like to visit the space needle.
+Speaker 2: Speaker 2 has been to Seattle. It is or will be summer by the end of the month. Speaker 2 likes the outdoors. Speaker 2 visited Seattle when they were a kid. Speaker 2 likes the water. Speaker 1 and Speaker 2 have neck pillows. Speaker 2 likes alligators. Speaker 2 likes shopping.
+[Session 4]
+Speaker 1: I design eyewear. I took time off work. I am going to Seattle. I enjoy the outdoors and the city. I've never been to California.
+Speaker 2: I went to Seattle as a kid I prefer outdoors. I have trouble finding work. I'm saving for my dream car. I am a gator hunter. I have trouble getting a license for gator hunting. My backup plan is working with cars. My dream car is a 1981 Camaro because my father had one. I've been saving for my car for years. I'd like a Camaro with some blue.",,
+session_5/test/258|0|d6c31287,distractor_other,Speaker 1,"I don't have kids, likes quiet and solitude. | I enjoy staying up on current events. | No information",I enjoy staying up on current events.,"[Session 1]
+Speaker 1: I have a favorite sweat suit. I am an eyewear designer. I have red hair. I am a man. I like to shop. I enjoy staying up on current events. It's tough for me to get away from work for a vacation.
+Speaker 2: I work as a gator hunter. I have been in trouble with the law, which makes it difficult for me to find work. I love cars. I love road trips. I'm saving to buy a 1981 Camaro. I don't like cities. I own an air boat, which I ride on swamps. I love the outdoors. I don't have kids, likes quiet and solitude.
+[Session 2]
+Speaker 1: I design eyewear for a living. I recently bought a very comfortable neckpillow. I want to go on vacation. I'm hoping to go to Seattle for an eyewear design conference.
+Speaker 2: I work with alligators. An alligator once tried to chew on me. I have an airboat. I have a neckpillow, and I love it for traveling and relaxing. I love road trips. I'm planning to get a Camaro. I want to go to Big Sur.
+[Session 3]
+Speaker 1: Speaker 1 has booked a trip to Seattle. Speaker 1 will book a trip to Seattle by the end of the month. Speaker 1 would like to visit the space needle.
+Speaker 2: Speaker 2 has been to Seattle. It is or will be summer by the end of the month. Speaker 2 likes the outdoors. Speaker 2 visited Seattle when they were a kid. Speaker 2 likes the water. Speaker 1 and Speaker 2 have neck pillows. Speaker 2 likes alligators. Speaker 2 likes shopping.
+[Session 4]
+Speaker 1: I design eyewear. I took time off work. I am going to Seattle. I enjoy the outdoors and the city. I've never been to California.
+Speaker 2: I went to Seattle as a kid I prefer outdoors. I have trouble finding work. I'm saving for my dream car. I am a gator hunter. I have trouble getting a license for gator hunting. My backup plan is working with cars. My dream car is a 1981 Camaro because my father had one. I've been saving for my car for years. I'd like a Camaro with some blue.",,
+session_5/test/426|1|a4c46e9f,original,Speaker 2,I prefer cross-country skiing to downhill skiing. | I am thinking about taking a gap year. | No information,I am thinking about taking a gap year.,"[Session 1]
+Speaker 1: I work at a coffee shop. The coffee shop I work at does not serve ice cream. I also like soft serve icecream. I went to high school with a lot of eagle scouts. I have not decided whether I will be attending college. My father works at a college. I currently live in Chicago but am moving to New York. I like football.
+Speaker 2: I am employed by McDonald's. I like soft serve ice cream. I am a part of the boy scouts. I am a senior in high school. I volunteer in my free time. I care about succeeding in college. I also live in Chicago currently. I like baseball.
+[Session 2]
+Speaker 1: I will go to school in New York. I am moving to New York. I am not a Jets fan. I am thinking about going to NYU. I want to major in engineering. I love building things. I dont know if ill study mechanical or electrical engineering. I am fascinated by mechanics and how everyday things work. I have built an engine and several radios.
+Speaker 2: I want to major in Linguistics. I want to go to University of Chicago. I'm fascinated with engineering. I have a deaf friend. I know sign language. I want to study the difference between spoken and signed languages. I want to travel and learn in different countries.
+[Session 3]
+Speaker 1: I have both parents in my life. I want to go to college in New York. I applied to NYU. I want to be an engineer. I am interested in mechanical engineering. I am interested in traveling in the near future. I'd want to travel to Europe.
+Speaker 2: I want to live in New York. I am interested in linguistics. I am thinking about taking a gap year. I am interested in doing study abroad. I want to learn about many languages and cultures. I plan on visiting NYC soon.
+[Session 4]
+Speaker 1: I do not know any deaf people. I have not decided what job I want to do. I am interested in engineering. My dad works at a college. My dad wants me to go to college. I have travelled. I have never been to Europe.
+Speaker 2: My grandfather was a linguist. I learnt sign language as a child. I will be visiting colleges. I have been to Chicago. I want to travel.",,
+session_5/test/426|1|a4c46e9f,removal,Speaker 2,I prefer cross-country skiing to downhill skiing. | I am thinking about taking a gap year. | No information,No information,"[Session 1]
+Speaker 1: I work at a coffee shop. The coffee shop I work at does not serve ice cream. I also like soft serve icecream. I went to high school with a lot of eagle scouts. I have not decided whether I will be attending college. My father works at a college. I currently live in Chicago but am moving to New York. I like football.
+Speaker 2: I am employed by McDonald's. I like soft serve ice cream. I am a part of the boy scouts. I am a senior in high school. I volunteer in my free time. I care about succeeding in college. I also live in Chicago currently. I like baseball.
+[Session 2]
+Speaker 1: I will go to school in New York. I am moving to New York. I am not a Jets fan. I am thinking about going to NYU. I want to major in engineering. I love building things. I dont know if ill study mechanical or electrical engineering. I am fascinated by mechanics and how everyday things work. I have built an engine and several radios.
+Speaker 2: I want to major in Linguistics. I want to go to University of Chicago. I'm fascinated with engineering. I have a deaf friend. I know sign language. I want to study the difference between spoken and signed languages. I want to travel and learn in different countries.
+[Session 3]
+Speaker 1: I have both parents in my life. I want to go to college in New York. I applied to NYU. I want to be an engineer. I am interested in mechanical engineering. I am interested in traveling in the near future. I'd want to travel to Europe.
+Speaker 2: I want to live in New York. I am interested in linguistics. I am interested in doing study abroad. I want to learn about many languages and cultures. I plan on visiting NYC soon.
+[Session 4]
+Speaker 1: I do not know any deaf people. I have not decided what job I want to do. I am interested in engineering. My dad works at a college. My dad wants me to go to college. I have travelled. I have never been to Europe.
+Speaker 2: My grandfather was a linguist. I learnt sign language as a child. I will be visiting colleges. I have been to Chicago. I want to travel.",,
+session_5/test/426|1|a4c46e9f,subst_content,Speaker 2,I am thinking about taking a gap year. | My cat is a standard American shorthair. | No information,My cat is a standard American shorthair.,"[Session 1]
+Speaker 1: I work at a coffee shop. The coffee shop I work at does not serve ice cream. I also like soft serve icecream. I went to high school with a lot of eagle scouts. I have not decided whether I will be attending college. My father works at a college. I currently live in Chicago but am moving to New York. I like football.
+Speaker 2: I am employed by McDonald's. I like soft serve ice cream. I am a part of the boy scouts. I am a senior in high school. I volunteer in my free time. I care about succeeding in college. I also live in Chicago currently. I like baseball.
+[Session 2]
+Speaker 1: I will go to school in New York. I am moving to New York. I am not a Jets fan. I am thinking about going to NYU. I want to major in engineering. I love building things. I dont know if ill study mechanical or electrical engineering. I am fascinated by mechanics and how everyday things work. I have built an engine and several radios.
+Speaker 2: I want to major in Linguistics. I want to go to University of Chicago. I'm fascinated with engineering. I have a deaf friend. I know sign language. I want to study the difference between spoken and signed languages. I want to travel and learn in different countries.
+[Session 3]
+Speaker 1: I have both parents in my life. I want to go to college in New York. I applied to NYU. I want to be an engineer. I am interested in mechanical engineering. I am interested in traveling in the near future. I'd want to travel to Europe.
+Speaker 2: I want to live in New York. I am interested in linguistics. My cat is a standard American shorthair. I am interested in doing study abroad. I want to learn about many languages and cultures. I plan on visiting NYC soon.
+[Session 4]
+Speaker 1: I do not know any deaf people. I have not decided what job I want to do. I am interested in engineering. My dad works at a college. My dad wants me to go to college. I have travelled. I have never been to Europe.
+Speaker 2: My grandfather was a linguist. I learnt sign language as a child. I will be visiting colleges. I have been to Chicago. I want to travel.",,
+session_5/test/426|1|a4c46e9f,subst_speaker,Speaker 2,I prefer cross-country skiing to downhill skiing. | I am thinking about taking a gap year. | No information,No information,"[Session 1]
+Speaker 1: I work at a coffee shop. The coffee shop I work at does not serve ice cream. I also like soft serve icecream. I went to high school with a lot of eagle scouts. I have not decided whether I will be attending college. My father works at a college. I currently live in Chicago but am moving to New York. I like football.
+Speaker 2: I am employed by McDonald's. I like soft serve ice cream. I am a part of the boy scouts. I am a senior in high school. I volunteer in my free time. I care about succeeding in college. I also live in Chicago currently. I like baseball.
+[Session 2]
+Speaker 1: I will go to school in New York. I am moving to New York. I am not a Jets fan. I am thinking about going to NYU. I want to major in engineering. I love building things. I dont know if ill study mechanical or electrical engineering. I am fascinated by mechanics and how everyday things work. I have built an engine and several radios.
+Speaker 2: I want to major in Linguistics. I want to go to University of Chicago. I'm fascinated with engineering. I have a deaf friend. I know sign language. I want to study the difference between spoken and signed languages. I want to travel and learn in different countries.
+[Session 3]
+Speaker 1: I have both parents in my life. I want to go to college in New York. I applied to NYU. I want to be an engineer. I am interested in mechanical engineering. I am interested in traveling in the near future. I'd want to travel to Europe. I am thinking about taking a gap year.
+Speaker 2: I want to live in New York. I am interested in linguistics. I am interested in doing study abroad. I want to learn about many languages and cultures. I plan on visiting NYC soon.
+[Session 4]
+Speaker 1: I do not know any deaf people. I have not decided what job I want to do. I am interested in engineering. My dad works at a college. My dad wants me to go to college. I have travelled. I have never been to Europe.
+Speaker 2: My grandfather was a linguist. I learnt sign language as a child. I will be visiting colleges. I have been to Chicago. I want to travel.",,
+session_5/test/426|1|a4c46e9f,distractor_irrelevant,Speaker 2,I prefer cross-country skiing to downhill skiing. | I am thinking about taking a gap year. | No information,I am thinking about taking a gap year.,"[Session 1]
+Speaker 1: I work at a coffee shop. The coffee shop I work at does not serve ice cream. I also like soft serve icecream. I went to high school with a lot of eagle scouts. I have not decided whether I will be attending college. My father works at a college. I currently live in Chicago but am moving to New York. I like football.
+Speaker 2: I am employed by McDonald's. I like soft serve ice cream. I am a part of the boy scouts. I am a senior in high school. I volunteer in my free time. I care about succeeding in college. I also live in Chicago currently. I like baseball.
+[Session 2]
+Speaker 1: I will go to school in New York. I am moving to New York. I am not a Jets fan. I am thinking about going to NYU. I want to major in engineering. I love building things. I dont know if ill study mechanical or electrical engineering. I am fascinated by mechanics and how everyday things work. I have built an engine and several radios.
+Speaker 2: I want to major in Linguistics. I want to go to University of Chicago. I'm fascinated with engineering. I have a deaf friend. I know sign language. I want to study the difference between spoken and signed languages. I want to travel and learn in different countries.
+[Session 3]
+Speaker 1: I have both parents in my life. I want to go to college in New York. I applied to NYU. I want to be an engineer. I am interested in mechanical engineering. I am interested in traveling in the near future. I'd want to travel to Europe.
+Speaker 2: I want to live in New York. I am interested in linguistics. I am thinking about taking a gap year. I am interested in doing study abroad. I want to learn about many languages and cultures. I plan on visiting NYC soon. I love fast cars. I know it would be better for me to not eat fast food, but I find it too delicious.
+[Session 4]
+Speaker 1: I do not know any deaf people. I have not decided what job I want to do. I am interested in engineering. My dad works at a college. My dad wants me to go to college. I have travelled. I have never been to Europe. I went on a snowboarding trip.
+Speaker 2: My grandfather was a linguist. I learnt sign language as a child. I will be visiting colleges. I have been to Chicago. I want to travel.",,
+session_5/test/426|1|a4c46e9f,distractor_other,Speaker 2,I prefer cross-country skiing to downhill skiing. | I am thinking about taking a gap year. | No information,I am thinking about taking a gap year.,"[Session 1]
+Speaker 1: I work at a coffee shop. The coffee shop I work at does not serve ice cream. I also like soft serve icecream. I went to high school with a lot of eagle scouts. I have not decided whether I will be attending college. My father works at a college. I currently live in Chicago but am moving to New York. I like football.
+Speaker 2: I am employed by McDonald's. I like soft serve ice cream. I am a part of the boy scouts. I am a senior in high school. I volunteer in my free time. I care about succeeding in college. I also live in Chicago currently. I like baseball.
+[Session 2]
+Speaker 1: I will go to school in New York. I am moving to New York. I am not a Jets fan. I am thinking about going to NYU. I want to major in engineering. I love building things. I dont know if ill study mechanical or electrical engineering. I am fascinated by mechanics and how everyday things work. I have built an engine and several radios.
+Speaker 2: I want to major in Linguistics. I want to go to University of Chicago. I'm fascinated with engineering. I have a deaf friend. I know sign language. I want to study the difference between spoken and signed languages. I want to travel and learn in different countries.
+[Session 3]
+Speaker 1: I have both parents in my life. I want to go to college in New York. I applied to NYU. I want to be an engineer. I am interested in mechanical engineering. I am interested in traveling in the near future. I'd want to travel to Europe. I prefer cross-country skiing to downhill skiing.
+Speaker 2: I want to live in New York. I am interested in linguistics. I am thinking about taking a gap year. I am interested in doing study abroad. I want to learn about many languages and cultures. I plan on visiting NYC soon.
+[Session 4]
+Speaker 1: I do not know any deaf people. I have not decided what job I want to do. I am interested in engineering. My dad works at a college. My dad wants me to go to college. I have travelled. I have never been to Europe.
+Speaker 2: My grandfather was a linguist. I learnt sign language as a child. I will be visiting colleges. I have been to Chicago. I want to travel.",,
+session_5/test/482|0|c8a92007,original,Speaker 1,I invented a time machine. | I am happy with how it is coming along. | No information,I am happy with how it is coming along.,"[Session 1]
+Speaker 1: I am a professional artist. I enjoy travelling when in nature. I work with animals. I am not married. I like rock music. My mum was a nurse. My parents are separated.
+Speaker 2: I am a US marine. I have been to Hawaii 3 times. I scuba dive. I own 2 snakes. I like rock and metal music. I am divorced. Scuba diving relaxes me.
+[Session 2]
+Speaker 1: I will be working from Hawaii. I have email. I may go surfing. My favorite sea creature is a whale. I take photos. I have worked with snakes. I draw animals. I would draw friends if they asked.
+Speaker 2: I scuba dive. I saw octopus and eels. I have 1 to 2 foot long snakes back home. My wife and I are separated. I enjoy art. I love drawing snakes while listening to music.
+[Session 3]
+Speaker 1: I have never been diving. I want to learn to surf. I am moving at the end of the month. I draw. I am an experienced artist.
+Speaker 2: I am a certified scuba diver. I was in the military and stationed in Hawaii. I had difficulty learning to surf. I prefer diving. I am still active military. I own a snake. I am a Marine.
+[Session 4]
+Speaker 1: I think the beaches are beautiful. I am working on a sea life drawing to promote a local business. I am happy with how it is coming along. I listen to rock music. I like Led Zeppelin. I love Metallica more. I want to learn to surf.
+Speaker 2: I have just returned home from being deployed. I miss having things to do. I get lonely at home. I like to dive. I used to dive often while I was deployed. I have been painting shoes and hats recently. I love Led Zeppelin. I paint designs based off rock bands I love. I like rock music. I love Metallica. I am learning to surf. I am really bad at surfing. I love sea creatures. I think it's beautiful underwater.",,
+session_5/test/482|0|c8a92007,removal,Speaker 1,I invented a time machine. | I am happy with how it is coming along. | No information,No information,"[Session 1]
+Speaker 1: I am a professional artist. I enjoy travelling when in nature. I work with animals. I am not married. I like rock music. My mum was a nurse. My parents are separated.
+Speaker 2: I am a US marine. I have been to Hawaii 3 times. I scuba dive. I own 2 snakes. I like rock and metal music. I am divorced. Scuba diving relaxes me.
+[Session 2]
+Speaker 1: I will be working from Hawaii. I have email. I may go surfing. My favorite sea creature is a whale. I take photos. I have worked with snakes. I draw animals. I would draw friends if they asked.
+Speaker 2: I scuba dive. I saw octopus and eels. I have 1 to 2 foot long snakes back home. My wife and I are separated. I enjoy art. I love drawing snakes while listening to music.
+[Session 3]
+Speaker 1: I have never been diving. I want to learn to surf. I am moving at the end of the month. I draw. I am an experienced artist.
+Speaker 2: I am a certified scuba diver. I was in the military and stationed in Hawaii. I had difficulty learning to surf. I prefer diving. I am still active military. I own a snake. I am a Marine.
+[Session 4]
+Speaker 1: I think the beaches are beautiful. I am working on a sea life drawing to promote a local business. I listen to rock music. I like Led Zeppelin. I love Metallica more. I want to learn to surf.
+Speaker 2: I have just returned home from being deployed. I miss having things to do. I get lonely at home. I like to dive. I used to dive often while I was deployed. I have been painting shoes and hats recently. I love Led Zeppelin. I paint designs based off rock bands I love. I like rock music. I love Metallica. I am learning to surf. I am really bad at surfing. I love sea creatures. I think it's beautiful underwater.",,
+session_5/test/482|0|c8a92007,subst_content,Speaker 1,I may have trouble getting approved for an exotic pet. | I am happy with how it is coming along. | No information,I may have trouble getting approved for an exotic pet.,"[Session 1]
+Speaker 1: I am a professional artist. I enjoy travelling when in nature. I work with animals. I am not married. I like rock music. My mum was a nurse. My parents are separated.
+Speaker 2: I am a US marine. I have been to Hawaii 3 times. I scuba dive. I own 2 snakes. I like rock and metal music. I am divorced. Scuba diving relaxes me.
+[Session 2]
+Speaker 1: I will be working from Hawaii. I have email. I may go surfing. My favorite sea creature is a whale. I take photos. I have worked with snakes. I draw animals. I would draw friends if they asked.
+Speaker 2: I scuba dive. I saw octopus and eels. I have 1 to 2 foot long snakes back home. My wife and I are separated. I enjoy art. I love drawing snakes while listening to music.
+[Session 3]
+Speaker 1: I have never been diving. I want to learn to surf. I am moving at the end of the month. I draw. I am an experienced artist.
+Speaker 2: I am a certified scuba diver. I was in the military and stationed in Hawaii. I had difficulty learning to surf. I prefer diving. I am still active military. I own a snake. I am a Marine.
+[Session 4]
+Speaker 1: I think the beaches are beautiful. I am working on a sea life drawing to promote a local business. I may have trouble getting approved for an exotic pet. I listen to rock music. I like Led Zeppelin. I love Metallica more. I want to learn to surf.
+Speaker 2: I have just returned home from being deployed. I miss having things to do. I get lonely at home. I like to dive. I used to dive often while I was deployed. I have been painting shoes and hats recently. I love Led Zeppelin. I paint designs based off rock bands I love. I like rock music. I love Metallica. I am learning to surf. I am really bad at surfing. I love sea creatures. I think it's beautiful underwater.",,
+session_5/test/482|0|c8a92007,subst_speaker,Speaker 1,I invented a time machine. | I am happy with how it is coming along. | No information,No information,"[Session 1]
+Speaker 1: I am a professional artist. I enjoy travelling when in nature. I work with animals. I am not married. I like rock music. My mum was a nurse. My parents are separated.
+Speaker 2: I am a US marine. I have been to Hawaii 3 times. I scuba dive. I own 2 snakes. I like rock and metal music. I am divorced. Scuba diving relaxes me.
+[Session 2]
+Speaker 1: I will be working from Hawaii. I have email. I may go surfing. My favorite sea creature is a whale. I take photos. I have worked with snakes. I draw animals. I would draw friends if they asked.
+Speaker 2: I scuba dive. I saw octopus and eels. I have 1 to 2 foot long snakes back home. My wife and I are separated. I enjoy art. I love drawing snakes while listening to music.
+[Session 3]
+Speaker 1: I have never been diving. I want to learn to surf. I am moving at the end of the month. I draw. I am an experienced artist.
+Speaker 2: I am a certified scuba diver. I was in the military and stationed in Hawaii. I had difficulty learning to surf. I prefer diving. I am still active military. I own a snake. I am a Marine.
+[Session 4]
+Speaker 1: I think the beaches are beautiful. I am working on a sea life drawing to promote a local business. I listen to rock music. I like Led Zeppelin. I love Metallica more. I want to learn to surf.
+Speaker 2: I am happy with how it is coming along. I have just returned home from being deployed. I miss having things to do. I get lonely at home. I like to dive. I used to dive often while I was deployed. I have been painting shoes and hats recently. I love Led Zeppelin. I paint designs based off rock bands I love. I like rock music. I love Metallica. I am learning to surf. I am really bad at surfing. I love sea creatures. I think it's beautiful underwater.",,
+session_5/test/482|0|c8a92007,distractor_irrelevant,Speaker 1,I invented a time machine. | I am happy with how it is coming along. | No information,I am happy with how it is coming along.,"[Session 1]
+Speaker 1: I am a professional artist. I enjoy travelling when in nature. I work with animals. I am not married. I like rock music. My mum was a nurse. My parents are separated.
+Speaker 2: I am a US marine. I have been to Hawaii 3 times. I scuba dive. I own 2 snakes. I like rock and metal music. I am divorced. Scuba diving relaxes me.
+[Session 2]
+Speaker 1: I will be working from Hawaii. I have email. I may go surfing. My favorite sea creature is a whale. I take photos. I have worked with snakes. I draw animals. I would draw friends if they asked.
+Speaker 2: I scuba dive. I saw octopus and eels. I have 1 to 2 foot long snakes back home. My wife and I are separated. I enjoy art. I love drawing snakes while listening to music.
+[Session 3]
+Speaker 1: I have never been diving. I want to learn to surf. I am moving at the end of the month. I draw. I am an experienced artist. I might major or minor in an Asian language. I want to try jollof rice one day.
+Speaker 2: I am a certified scuba diver. I was in the military and stationed in Hawaii. I had difficulty learning to surf. I prefer diving. I am still active military. I own a snake. I am a Marine.
+[Session 4]
+Speaker 1: I think the beaches are beautiful. I am working on a sea life drawing to promote a local business. I am happy with how it is coming along. I listen to rock music. I like Led Zeppelin. I love Metallica more. I want to learn to surf. I went to public school.
+Speaker 2: I have just returned home from being deployed. I miss having things to do. I get lonely at home. I like to dive. I used to dive often while I was deployed. I have been painting shoes and hats recently. I love Led Zeppelin. I paint designs based off rock bands I love. I like rock music. I love Metallica. I am learning to surf. I am really bad at surfing. I love sea creatures. I think it's beautiful underwater.",,
+session_5/test/482|0|c8a92007,distractor_other,Speaker 1,I invented a time machine. | I am happy with how it is coming along. | No information,I am happy with how it is coming along.,"[Session 1]
+Speaker 1: I am a professional artist. I enjoy travelling when in nature. I work with animals. I am not married. I like rock music. My mum was a nurse. My parents are separated.
+Speaker 2: I am a US marine. I have been to Hawaii 3 times. I scuba dive. I own 2 snakes. I like rock and metal music. I am divorced. Scuba diving relaxes me.
+[Session 2]
+Speaker 1: I will be working from Hawaii. I have email. I may go surfing. My favorite sea creature is a whale. I take photos. I have worked with snakes. I draw animals. I would draw friends if they asked.
+Speaker 2: I scuba dive. I saw octopus and eels. I have 1 to 2 foot long snakes back home. My wife and I are separated. I enjoy art. I love drawing snakes while listening to music.
+[Session 3]
+Speaker 1: I have never been diving. I want to learn to surf. I am moving at the end of the month. I draw. I am an experienced artist.
+Speaker 2: I am a certified scuba diver. I was in the military and stationed in Hawaii. I had difficulty learning to surf. I prefer diving. I am still active military. I own a snake. I am a Marine.
+[Session 4]
+Speaker 1: I think the beaches are beautiful. I am working on a sea life drawing to promote a local business. I am happy with how it is coming along. I listen to rock music. I like Led Zeppelin. I love Metallica more. I want to learn to surf.
+Speaker 2: I have just returned home from being deployed. I miss having things to do. I get lonely at home. I like to dive. I used to dive often while I was deployed. I have been painting shoes and hats recently. I love Led Zeppelin. I paint designs based off rock bands I love. I like rock music. I love Metallica. I am learning to surf. I am really bad at surfing. I love sea creatures. I think it's beautiful underwater. I invented a time machine.",,

@@ -1,0 +1,90 @@
+File: data\msc\msc_dialogue\session_2\test.txt
+Số bản ghi trong file: 501
+Các trường cấp 1: ['personas', 'dialog', 'metadata', 'previous_dialogs', 'init_personas']
+
+=== Nội dung bản ghi đầu tiên (đã rút gọn) ===
+{
+  "personas": [
+    [
+      "I own a Jeep.",
+      "I enjoy exercising at the gym.",
+      "I have a marketing job.",
+      "... (+3 phần tử)"
+    ],
+    [
+      "I don't own a car. I enjoy running and walking. I live in a small town. I live semi-close towkr.",
+      "I'm a computer programmer.",
+      "I like grilling steak.",
+      "... (+1 phần tử)"
+    ]
+  ],
+  "dialog": [
+    {
+      "text": "Did you manage to go out on a run today?",
+      "id": "Speaker 1",
+      "convai2_id": "test_0"
+    },
+    {
+      "text": "Yes I actually was able too. I am considering joining the local gym. Do you prefer going to the gym?",
+      "id": "Speaker 2",
+      "convai2_id": "test_0"
+    },
+    {
+      "text": "I do actually.  I like the controlled environment. I don't want to have to depend on the weather consider where I live.  ",
+      "id": "Speaker 1",
+      "convai2_id": "test_0"
+    },
+    "... (+9 phần tử)"
+  ],
+  "metadata": {
+    "initial_data_id": "test_0",
+    "session_id": 1
+  },
+  "previous_dialogs": [
+    {
+      "personas": [
+        [
+          "I own a Jeep.",
+          "I enjoy exercising at the gym.",
+          "I have a marketing job.",
+          "... (+3 phần tử)"
+        ],
+        [
+          "I don't own a car. I enjoy running and walking. I live in a small town. I live semi-close towkr.",
+          "I'm a computer programmer.",
+          "I like grilling steak.",
+          "... (+2 phần tử)"
+        ]
+      ],
+      "dialog": [
+        {
+          "text": "What kind of car do you own? I have a jeep."
+        },
+        {
+          "text": "I don't own my own car! I actually really enjoying walking and running, but then again, I live in a small town and semi-close to work."
+        },
+        {
+          "text": "Ah I see! I like going to the gym to work out."
+        },
+        "... (+9 phần tử)"
+      ],
+      "time_num": 1,
+      "time_unit": "hour",
+      "time_back": " 1 hour ago"
+    }
+  ],
+  "init_personas": [
+    [
+      "I am a vegan.",
+      "I love going to the gym.",
+      "I own a jeep wrangler.",
+      "... (+2 phần tử)"
+    ],
+    [
+      "I am a meat eater.",
+      "I like running.",
+      "I wear pants.",
+      "... (+2 phần tử)"
+    ]
+  ]
+}

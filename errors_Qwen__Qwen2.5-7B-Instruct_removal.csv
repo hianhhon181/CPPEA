@@ -1,0 +1,279 @@
+id,target_speaker,fact_bi_xoa_hoac_thay,mo_hinh_chon,xac_suat_ABC,ngu_canh_sau_can_thiep,leak (y/n),note
+session_3/test/162|1|6f867a3a|removal,Speaker 2,My name is Aufgewachsen.,My name is Aufgewachsen.,"[1.0, 0.0, 0.0]","[Session 1]
+Speaker 1: I am 26 years old. I work a lot. I have some debt. I like the band Black Sabbath. I like eating meat. I am a professional athlete.
+Speaker 2: I am a librarian. I play the flute. I have 3 children under 10. My kids enjoy eating meat and fish. I live in Germany. My name translates to 'grown up' in German. I am a librarian.
+[Session 2]
+Speaker 1: I purchased tickets to a concert. I like black sabbath. I am going to a concert. I bought tickets to a concert. I don't have kids.
+Speaker 2: I go to concerts and borrow recording from the library. I am in Germany. I have 3 children.",y,Ngữ cảnh có nhắc đến việc tên dịch nghĩa là 'grown up' trong tiếng Đức.
+session_5/test/397|1|9c018439|removal,Speaker 2,I'm still learning to cook.,I'm still learning to cook.,"[0.9305, 0.0, 0.0695]","[Session 1]
+Speaker 1: I have a pet parrot named Tasha. I don't eat meat. I like being outdoors. I like hiking. I'm a redhead, but I feel blonde.
+Speaker 2: I have a pet parrot named Tasha. I like to eat scrambled eggs with Sprite. I like taking my parrot on hikes.
+[Session 2]
+Speaker 1: I have a parrot. My parrot, Tasha, is a cockatoo. My parrot speaks frequently. I like to hike. I have no other pets.
+Speaker 2: I have a parrot named Tasha. My parrot is a Macaw. I have a dog named Spike. My pets mostly get along well. I bring my parrot places.
+[Session 3]
+Speaker 1: I have a parrot. I only speak English. My parrot can speak English.
+Speaker 2: I have a pet named Tasha. I have a Macaw.
+[Session 4]
+Speaker 1: I have a parrot. I give my parrot a lot of treats to train it. My parrot is a cockatoo. I have had my parrot since childhood. I love to go hiking. I'm not good in the kitchen.
+Speaker 2: I have a parrot. I haven't had the parrot that long and I haven't trained her to speak. My parrot is named Tasha. I went on a hike today. I'm giving up meat and trying to be healthier.",y,Ngữ cảnh có câu 'I'm not good in the kitchen'.
+session_4/test/175|0|b4f73e08|removal,Speaker 1,I enjoyed my previous job.,I enjoyed my previous job.,"[0.0, 1.0, 0.0]","[Session 1]
+Speaker 1: I am in college. I used to work part time but I'm unemployed now. I used to work at a supermarket. I was a sales helper. I love playing soccer. I'm not really into music. I'm majoring in humanity at college.
+Speaker 2: I am 26 and I work 12 hours a day. I am in debt. I love burgers. I like Black Sabbath. I like to watch soccer. I majored in humanities at college. I am a law clerk now. I would rather be a firm reviewer.
+[Session 2]
+Speaker 1: I like to play soccer with my friends. I play organized soccer matches. My position in soccer is a striker. I am in college. I'm studying Humanities. I am not looking for a job. I have been employed before.
+Speaker 2: I have been busy with work. I'm working a lot because I need money. I like my current job. I'm not very interested in changing jobs. I secured my job before the end of college. I would like to have higher pay and less hours. Burgers are my favorite food.
+[Session 3]
+Speaker 1: I am in college. I have a meeting with a guidance counselor tomorrow. I don't know what career I want yet. A career in human resources is something I would be interested in. I hate spiders. My biggest nightmare is being bit by a flesh-eating spider.
+Speaker 2: I may want a humanities degree to work in human resources, but I'm not sure yet. I have a neighbor named Cynthia who works in human resources. I own a computer. I hate spiders. I've been bit by a spider before. My boss is a woman. I don't believe I'm paid enough at my job.",n,
+session_5/test/118|1|ebeafaa8|removal,Speaker 2,I've taken a phonetics class.,I've taken a phonetics class.,"[0.0, 1.0, 0.0]","[Session 1]
+Speaker 1: I ride bikes. I occasionally ride my bike to work. I fix computers. I attended college. I majored in computer science. I am an only child.
+Speaker 2: I am a full time college student. I just moved to Spokane, Washington. I don't know what to major in. I have brothers.
+[Session 2]
+Speaker 2: I have one brother and 3 half brothers. I study linguistics.
+[Session 3]
+Speaker 1: I fix computers. I don't trust the computer companies.
+Speaker 2: I care about the environment.
+[Session 4]
+Speaker 1: I am a computer science major. I go to night school. I work during the day. I study better by working during the day. I love night school. My school is close to my house. I saved for over a year to afford night school. I ride a bike. My bike chain broke. I ride a bike to save money. I don't know much about bikes.
+Speaker 2: I am studying linguistics. I am taking classes. I study ancient and modern languages. I took a phonetics class. I study full time. I do not have a job. I earn money through work study. My school is expensive. I have loans for school. I have some scholarships for school. My brother likes bikes. My brother might have a bike chain. I walk everywhere I go. I live on campus. I thought about getting a bike.",y,Ngữ cảnh chứa nguyên văn câu 'I took a phonetics class'.
+session_3/test/172|1|bb7ef347|removal,Speaker 2,I'm in college and studying art and music.,I'm in college and studying art and music.,"[0.9999, 0.0, 0.0001]","[Session 1]
+Speaker 1: I love meeting new people. I have been to Disney World more than once. I'm working in a computer company. I had a cat and now i have kids. I have 2 kids and my mom is a dentist.
+Speaker 2: I love walking in the sunsets. I have 5 dogs and I like to paint. I have 2 kids. I have 3 rats and i sell them.
+[Session 2]
+Speaker 1: My mom is alive and she's a dentist. I work as a computer programmer. I like my job. I'm busy at work. I'd like to take a short vacation to the south. I've been to Disney World several times.
+Speaker 2: I have pet dogs. I have pet rats. I have children. I'm in college. I sell performance rats. I'm taking art classes, which are going well. I'm taking music classes, which are not going well. I can play music well. I'm not good at music composition. I live in North Carolina. I have been to Disney World. I have young children. My family and I go to the North Carolina beach during most summers. I like to be frugal.",y,Ngữ cảnh có nhắc đến việc đang học các lớp nghệ thuật và âm nhạc.
+session_5/test/322|1|823ac573|removal,Speaker 2,I feel motivated when I run with my dog.,I feel motivated when I run with my dog.,"[1.0, 0.0, 0.0]","[Session 1]
+Speaker 1: I'm 40 years old. I am a single mom. I live with my sister. I have two children, a son and a daughter. I live with my children. I am a landlord. My tenants pay me on time. I like movies. I like running. I like to listen to the song Zombie while I run.
+Speaker 2: I have two daughters. I have a cat and a dog. I like my dog more than my cat. I majored in Psychology in college. I like running. I don't like the song Zombie. I have a gluten intolerance. My gluten intolerance is made worse with dairy.
+[Session 2]
+Speaker 1: I think yoga is boring. The music puts me to sleep. I like to run a mile or so each day outside. I don't run on a treadmill if I can help it. I enjoy fast-paced music. I take care of many people in my home. I have kids. I have a sister. My sister watches my children for me. I've contemplated getting a dog.
+Speaker 2: I am a runner. I average 2-3 miles every day. I like EDM and Metal music. Music motivates me when I run. I have a lab pit mix named Bently. I got him when a friend was giving away puppies. I like to run with my dog. He pees a lot when e first start running. I avoid the gym because of the distance. The gym doesn't allow dogs.
+[Session 3]
+Speaker 1: I have a son that plays soccer. I have a daughter that does gymnastics. I have narrow feet. Brooks running shoes are my favorite. I haven't seen any good movies lately. I am currently watching Bewitched. I enjoy watching Bewitched. I have considered getting a lab or a golden retriever. The area where I live is very hot.
+Speaker 2: Back in Black by ACDC is my favorite motivational metal song. I run 2-3 miles every day. Brooks are my favorite type of running shoes. I haven't seen any good movies lately. I recently watched a show I liked called Run. Labs are my favorite type of dog. I have a dog named Bently who doesn't do well in the heat. The area where I live is extremely hot.
+[Session 4]
+Speaker 1: I just watched the movie Time Bandits. I liked the movie. I like most types of music. I like top 40s pop from the last 20 years. I go on a daily run. I listen to Zombie while running. I like up-tempo music. I like Lady Gaga and Nirvana. I like Brooks running shoes. I run outside, weather permitting. I do not like running inside.
+Speaker 2: I have never seen the movie Time Bandits. My hobbies are movies and music. My favorite genre of music is Metal. ACDC is my favorite metal group. I have a dog named Bentley. I go on runs with Bentley. I listen to ACDC while running. I have ran today. I need new Brooks running shoes. I prefer to run outside. It is hot where I live.",y,Ngữ cảnh kết hợp ý thích chạy cùng chó và âm nhạc tạo động lực.
+session_5/test/349|0|82e265dc|removal,Speaker 1,I read about pets in a recent blog.,I read about pets in a recent blog.,"[0.0, 0.9986, 0.0014]","[Session 1]
+Speaker 1: I play drums for a band. My band is called American Satan. I'm the song writer for my band. I have a cat. I enjoy surfing. My dad owns a surf shop. My cat is a Himalayan breed.
+Speaker 2: I formerly worked as a vet. I currently sing for a living. I'm vegan. I'm a blogger. I have a cat and dog that I travel with. My blog includes a lot about animals.
+[Session 2]
+Speaker 1: I have a cat. I have been to Vegas once. I am with a band. I will be touring this summer.
+Speaker 2: I have a cat and dog. I am in Vegas. I am planning to go to Africa. I am a wedding singer.
+[Session 3]
+Speaker 1: I have never been to Africa but I think it would be awesome to visit. I am in a band and write songs. My band and I will be having a show in a month. My band and I usually play mostly rock songs. My band and I plan on going to Las Vegas next year. My band and I were chosen to open for a major band.
+Speaker 2: I am interested in trying authentic jollof rice while I'm in Africa. I am looking forwarded to going on safari's while I'm in Africa.
+[Session 4]
+Speaker 1: I admire the cat and dog I read about in the blog. I'm going to Sierra Leone in Africa soon. I want to go on a safari and visit museums in Sierra Leone. I have a Nigerian friend who makes Jollof rice. I want to try Jollof rice. My Nigerian friend lives in the UK. I see him often. I would go to Africa with him maybe.
+Speaker 2: I have a blog. I have a cat and a dog. I want to go on a safari in Africa one day. I want to try jollof rice one day.",y,Ngữ cảnh có nhắc đến việc đọc về mèo và chó trong blog.
+session_5/test/131|1|939bedcc|removal,Speaker 2,I work in fast food.,I work in fast food.,"[0.0, 1.0, 0.0]","[Session 1]
+Speaker 1: I have a smart car. I am moving. I'm moving near a beach. I have blonde hair and blue eyes. I went to college in Alaska. I did not finish college. I liked girls in college. I am unemployed. I want to retire at the beach.
+Speaker 2: I am going to college next year. I'm studying neuroscience. I am trying to save money. I want lots of ice cream.
+[Session 2]
+Speaker 1: I surf at the beach. My uncle is an MD. I studied organic chemistry before college. I did not finish school. I was socializing. I met my wife at school. My wife has a good job. I am interested in a surfing instructor job. I will do great if I work 5 hours a day.
+Speaker 2: I study. I took organic chemistry in my 4th semester. I wish I had time to date hot girls in college. If I become a neurosurgeon I will try to work in Southern California.
+[Session 3]
+Speaker 1: I am interested in a job as a surf instructor. I need practice with job applications. I love surfing. I have taken some chemistry classes. I think humans need learning to keep them pushing forward. I use surfing to take my mind off things going on in the world.
+Speaker 2: I am currently in college. I want to be a research scientist. I would love to work on developing new medicines. I love learning about chemistry. I would love to use science to answer all the questions about life but do not think they will all be answered. I can not surf. I wish I knew how to surf.
+[Session 4]
+Speaker 1: I have a wife. I applied for a surf instructor job. I love to surf and I love to teach. I live in Southern California. I have an uncle who is a doctor.
+Speaker 2: I flip burgers for a living. The restaurant I work at has ice cream. I go to school. I'm studying to be a neurosurgeon. I would like to learn to surf. I stay up studying late into the night sometimes. I will eventually go to grad school.",y,Ngữ cảnh có câu 'I flip burgers for a living'.
+session_5/test/490|0|5f99bb27|removal,Speaker 1,I like to find and fix problems.,I like to find and fix problems.,"[0.0, 1.0, 0.0]","[Session 1]
+Speaker 1: I am taking a degree in teaching.
+Speaker 2: I live near a beach. I am moving next week. I go to high school. I like to hike. I like the beach. I am fluent in English. I am fluent in Spanish. I am in high school.
+[Session 2]
+Speaker 1: I care about my students education. I earn my students trust. I want to be a school principal. I focus on the root cause of an issue.
+Speaker 2: I am a student. i go to school. I have some bad teachers. I don't feel respected by teachers. I don't like my principal. I don't have a voice as a student.
+[Session 3]
+Speaker 1: I teach for exam for coming week. I think students should give attention on teaching. I want to relax and keep my calm. I heard you like hiking.
+Speaker 2: I’m ready for exams. I play game and watch movies relax my mind. I don’t like my principal. He didn't care about students. I do like to make art though with paints and pencils. I like to hike in the hills. I like to watch the birds. Hiking is best way to get relax.
+[Session 4]
+Speaker 1: I am a teacher. I want to be a principal. I care about student education.
+Speaker 2: I am a student. I do not like my principal. I do not enjoy school overall. I do enjoy art class. I am moving away to college soon. I am moving to Tennessee to live with family members I have never met. I have a father who lost his job. I enjoy hiking. I enjoy photographing birds.",y,Ngữ cảnh có ý tập trung vào nguyên nhân gốc rễ của vấn đề.
+session_5/test/50|0|782bf795|removal,Speaker 1,I like French cinema.,I like French cinema.,"[0.0, 0.9992, 0.0008]","[Session 1]
+Speaker 1: I like baseball. I am going to a nice seafood restaurant. I love lobster. I enjoy learning languages. I am currently going to school to get my degree in marketing. I speak French at night. I hope to design ads for local non profit companies.
+Speaker 2: I love baseball and so does my son. I do not eat meat. My son likes lobster and crab. I speak a little bit of German. My mom was born in Germany.
+[Session 2]
+Speaker 1: I have a potential job with a local start-up. I use social media. I go to a community college. I am studying marketing. I rent my house. I like to eat lobster.
+Speaker 2: I use social media. I like smaller colleges. I have a good memory. I own my house. I am close to paying off my mortgage.
+[Session 3]
+Speaker 1: I am taking classes. I watch TV to relax. I prefer subtitles when watching foreign movies. I like snacks. I like popcorn. I make watercolors, but I am not good at it.
+Speaker 2: I like the French language. I prefer subtitles when watching French movies. I have a son. I like snacking on popcorn. I like ginger ale. I make watercolors.
+[Session 4]
+Speaker 1: I do draft ad designs. I have a sweet tooth. My favorite colors are blue, black and green. I enjoy dark chocolate and coffee flavored sweets. I also have a taste for margaritas.
+Speaker 2: I paint abstract art. I like to look at designs. The inspiration for my art comes from my day to day experiences and the emotions they ellicit. I like popcorn. Kettle corn and caramel popcorn are my favorite. I also have a sweet tooth. I am close to paying off the mortgage on my house.",y,Ngữ cảnh có nhắc đến việc thích xem phim Pháp.
+session_2/test/380|1|d281b8c7|removal,Speaker 2,I am either traveling for soccer or studying.,I am either traveling for soccer or studying.,"[0.0, 1.0, 0.0]","[Session 1]
+Speaker 1: I moved to a new city. I don't have friends or a job. I have 2 older brothers. My dad has a farm. I'm a band groupie and drove a thousand miles to see them. I'm tired. I get up at 5am to milk cows. I hope I will get some rest.
+Speaker 2: I am a college soccer player with no time. I don't have a job. I am an only child. My mom ran a private catholic school. My dad was a doctor. I travel a lot all over the country. I don't envy speaker 1. My season is wrapping up soon.",y,Ngữ cảnh có nhắc đến việc đá bóng đại học và đi du lịch khắp nơi.
+session_5/test/345|1|b2988daf|removal,Speaker 2,I read a lot.,I read a lot.,"[0.0, 1.0, 0.0]","[Session 1]
+Speaker 1: I work for the government. I have two children. I like horror movies. Napping is a hobby of mine.
+Speaker 2: I like novels about government spies. My dad is a fireman. My mom is a doctor. I live with my mom and dad and pets.
+[Session 2]
+Speaker 1: I have not read any book like Way of Kings. The book I read most recently was about treating people who have had someone close to them die. I have a younger good friend who suddenly lost her husband. I read the book because she recommended it. I find the book on grief very helpful. I am closer friends now with the woman who recommended the book to me because I have learned how to support her.
+Speaker 2: The book I read recently was Way of Kings by Brandon Sanderson. I like government spy novels best, but like other genres too. I have a friend that recommended the series to me. I have read the other three books in the series already. I have a hard time reading self-help books but I am rethinking that because of what you said.
+[Session 3]
+Speaker 1: I have children. I'm not an empathetic person. I read self help books.
+Speaker 2: I have ridden on the fire truck with my dad. My dad has worked on a fire truck all his life. I read a book to improve my social life. I have a job. I've been working on improving my social life with my coworkers.
+[Session 4]
+Speaker 1: I'm reading a self help book. I have a job. I'm not close with many of my coworkers. I am somewhat closed off. I want to be more open with people. I don't have suspicions about my coworkers right now. I would like to borrow that book about spies. My coworkers are regular and boring. I want to start a book club. I'm excited to read the self help book. I think I will learn from the self help book. I have coworkers. I am not allowed to tell you what my job is.
+Speaker 2: I read books about coworkers who are government spies. I read spy novels. I think spies are dangerous. I would like to borrow the self help book. I have a phone that I used to talk to my coworker more effectively. I am learning from my book that good relationships with coworkers increase productivity. I work off jobs off and on. I'm currently working in construction for two weeks.",y,Ngữ cảnh có nhiều câu nhắc đến việc đọc sách/tiểu thuyết.
+session_3/test/230|1|308b2c29|removal,Speaker 2,I believe everyone deserves a living wage.,I believe everyone deserves a living wage.,"[1.0, 0.0, 0.0]","[Session 1]
+Speaker 1: I work at a mall. I am open minded.
+Speaker 2: I have a blog. I am vegan. I am a singer. I used to be a veterinarian. I am not a full-time blogger. I like to travel.
+[Session 2]
+Speaker 1: I don't make much money working at the mall. I think I would make more working at a job with tips. I like talking to people. It is energizing. I am afraid I may make even less if I worked for tips. The minimum wage is even lower. I think it is bad that everyone sees underpaying is acceptable. I think that even people who disagree with tipping should do it anyway to help their server.
+Speaker 2: I want to make my blog a full time gig. I hate people who refuse to tip. In my dream world, everyone could contribute and everyone would have enough to eat and a safe place to live.",y,Ngữ cảnh có ý mong muốn mọi người có đủ ăn và chỗ ở an toàn.
+session_5/test/200|0|e7e0ca67|removal,Speaker 1,My dad is still alive.,My dad is still alive.,"[0.0, 0.6654, 0.3346]","[Session 1]
+Speaker 1: I like working on my father's blue pickup truck. I like making friends over breakfast. I have a daughter. I live on the 32nd floor of an apartment building. I do not have an elevator. I work as a plumber. I want to buy a house.
+Speaker 2: I am a Mexican. I like meeting people. I have many friends. I have a daughter. I like poached eggs. I would rather live on the street than in an apartment.
+[Session 2]
+Speaker 1: I do not know what arroz con pollo is. I want to try arroz con pollo. I like breakfast burritos. I like Mexican food. I live in America. I do not like Taco Bell.
+Speaker 2: I can cook mexican. I am good at cooking arroz con pollo. my dish of arroz con pollo contains yellow rice, chicken thighs, spices and sour cream on top. I also make tacos. I am hungry. I like breakfast burritos. I think Taco Bell is a disgrace. I like Chalupas.
+[Session 3]
+Speaker 1: I don't have much cooking experience. I don't often use herbs when cooking. I would like some coaching with my cooking. I like breakfast burritos. I do the grocery shopping.
+Speaker 2: I know what spices to use to get the most flavor out of food. I like cilantro. I'm familiar with cooking Mexican dishes. I would be happy to instruct friends on how to cook. I like salsa and mushrooms in breakfast burritos.
+[Session 4]
+Speaker 1: I have a son and a family. I have a job that relates working on a truck. I know how to drive. I live in a town.
+Speaker 2: I know at least two recipes. I know how to drive. I have at least two kids. I like tacos. I am on vacation with my family.",n,
+session_3/test/263|0|6734e7fb|removal,Speaker 1,"I'm from the great lakes area, just south of canada.","I'm from the great lakes area, just south of canada.","[0.0, 1.0, 0.0]","[Session 1]
+Speaker 1: I think Michigan is a decent place besides flint and detroit. I have a family of honda civics. They are very reliable.
+Speaker 2: I have a vw. I drove up to Traverse city once. I have a vw old style beetle. It still has the vase holder. I am partial to vws.
+[Session 2]
+Speaker 1: I have access to a Honda Civic. I live near Wisconsin. I know how to work on cars. I want to convert a Volkswagen Beetle into a dune buggy. I am a mechanic. I work on cars and aircraft.
+Speaker 2: I like cars made by Honda. I recently visited Traverse City and saw Lake Michigan. I own a Volkswagen Beetle. I can do simple car maintenance.",y,Ngữ cảnh có nhắc đến khu vực Hồ Michigan / Wisconsin.
+session_3/test/40|1|70d06cfe|removal,Speaker 2,I enjoy Easter weekend.,I enjoy Easter weekend.,"[0.0, 0.9952, 0.0048]","[Session 1]
+Speaker 1: I have eight grandchildren. I am old. My spring breaks are quiet. My mom was a librarian. I used to be a librarian.
+Speaker 2: I have blue hair. I have a new Easter dress. I am 28, soon to be 29. I have a new car.
+[Session 2]
+Speaker 1: I have never dyed my hair. I have grey hair. I am elderly. I am a grandparent; I have multiple grandchildren. I miss being young.
+Speaker 2: I am knowledgeable about hair dyeing. I enjoy changing my hair color. I am open to dyeing my hair many different colors. I recently bought a dress. My hair is blue. I recently bought my first new car. I think black is a boring color.",y,Ngữ cảnh có nhắc đến váy lễ Phục sinh (Easter dress).
+session_5/test/371|0|8c42ec65|removal,Speaker 1,I usually order food that I am familiar with.,I usually order food that I am familiar with.,"[0.0, 1.0, 0.0]","[Session 1]
+Speaker 1: I live in New York. I like autumn. I am a grandmother. I have five grandchildren. I frequently visit Barnes and Noble and I enjoy being there. I don't have any pets. I like to listen to music from Journey and Styx. I enjoy going to the beach. I have a grandson. I enjoy Mediterranean food.
+Speaker 2: I live in Phoenix, Arizona. I love spending time at Barnes and Noble. I have a pet bearded dragon. I work in the Capitol. I like classical music. I frequently go skydiving. I enjoy Mediterranean food, specially the vegetable and sauces.
+[Session 2]
+Speaker 1: I have never tried skydiving.
+Speaker 2: I live in Arizona. I have been skydiving for over five years. I wish we lived nearer to water.
+[Session 3]
+Speaker 1: I have a grandson. My grandson is visiting. We might make Mediterranean food.
+Speaker 2: I might have Mediterranean food tonight. I am going to a restaurant tonight. Today is my birthday. My favorite item on the menu is shakshuka. I enjoy shrimp pasta and baked chicken drumsticks. I like to try new food once a month. My birthday party includes a lot of family members. I have some in-laws in my family.
+[Session 4]
+Speaker 1: I ate Mediterranean food a few days ago. I have never been to Joses. I don't like to try new foods. I have a son.
+Speaker 2: I had a seafood entree a few days ago. I am going out for Mexican food tonight. I have family in town. We are going to eat at Joses. I like the chicken chimichanga at Joses. I like to try new foods. I have a party tonight. I have a lot of family coming into town. I don't like to be the center of attention. I am going to have a margarita from Joses.",y,Ngữ cảnh có câu 'I don't like to try new foods'.
+session_3/test/164|1|c277dd3d|removal,Speaker 2,I like pork products.,I like pork products.,"[1.0, 0.0, 0.0]","[Session 1]
+Speaker 1: I like to visit places with graffiti. I do not sing. I have 3 tattoos. I do not own a car. I am not a vegetarian. My favorite show to watch on tv is Friends. I love to get tattoos and want to get another one. I have a job.
+Speaker 2: No, I do not like to visit places with graffiti. I am in debt and work all the time. I love listening to Black Sabbath. No I do not have any tattoos. I love to eat ribs. I want to get a pig tattoo. I love to eat meat. I am in debt and need help. I like to watch western TV shows. I am 26 years old. I am a writer and a teacher.
+[Session 2]
+Speaker 1: I have three tattoos. My birthday is in a few months.
+Speaker 2: I'm getting a pig tattoo. I like to write. I'm a teacher. I'm writing a Black Sabbath biography.",y,Ngữ cảnh có nhắc đến việc thích ăn sườn (ribs) và hình xăm lợn.
+session_5/test/149|0|4b4bbc99|removal,Speaker 1,I work a lot and fish in my spare time.,I work a lot and fish in my spare time.,"[1.0, 0.0, 0.0]","[Session 1]
+Speaker 1: I have been to Boston but I grew up in San Francisco. My job requires me to travel. I have never seen The Dark Knight. I am married with children. My wife cooks.
+Speaker 2: I am an English teacher in Boston. I draw. I like to volunteer. I like Batman. I am sarcastic. I like Fish 'n Chips.
+[Session 2]
+Speaker 1: I watched the dark knight. I have a family. I am going to watch all dark knight movies. I love batman. I like the joker in the movies. I watched Joker with Joaquin Phoenix. I thought it was very sad. I go fishing. I fish for dinner.
+Speaker 2: I know that there is a dark knight series. My favorite movie is the dark knight. I like character development. I like the joker in the movies. I have friends. We talked about mental illness.
+[Session 3]
+Speaker 1: I have seen the Dark Knight again and am watching it again. I want to go to the movie after dinner. I like to fish and eat the fish. I have not made fish and chips before. I have a wife. I like Fried food. I have not tried a fried twinkie before but it sounds good.
+Speaker 2: I like fish and chips. I have seen the Dark Knight movie. I like the movie Batman. I like fried oreos with ice creams.
+[Session 4]
+Speaker 1: I saw the movie Dark Knight. I like complicated movie characters. I am an adult. I like doing dumb stuff.
+Speaker 2: I loved the movie Dark Knight. I loved the movie Deadpool.",y,Ngữ cảnh có nhắc đến việc đi câu cá.
+session_4/test/456|1|ad9da581|removal,Speaker 2,"I enjoy running, hiking, and camping.","I enjoy running, hiking, and camping.","[0.0, 0.5234, 0.4766]","[Session 1]
+Speaker 1: I am a gamer. I like League of Legends. I recently got a new gaming laptop. I like any games that I can play with friends.
+Speaker 2: I am not into gaming. I like doing things outdoors. I have a dog. Sometimes rock climb.
+[Session 2]
+Speaker 1: I love the name Brian. I don't know a lot about dogs.
+Speaker 2: I have a Pitweiler dog named Brian. I have a 6 year old dog. I have an aunt who breeds dogs. I like to hike.
+[Session 3]
+Speaker 1: I don't have any pets. I would prefer an older dog so I don't have to train it. I want to start an Instagram for my future dog. I stream on Twitch. I recently bought an expensive gaming laptop.
+Speaker 2: I prefer adopting dogs. I have a dog. My aunt breeds dogs for a living. My dog's name is Brian. I get free dog toys and supplies from my aunt that breeds dogs. I don't play a lot of video games.",y,Ngữ cảnh có nhắc đến sở thích đi bộ đường dài (hiking).
+session_4/test/350|1|a811a89c|removal,Speaker 2,I have not finished my degree.,I have not finished my degree.,"[1.0, 0.0, 0.0]","[Session 1]
+Speaker 1: I meet a lot people at work. I work at a grocery store. I would like to go back to college. I like to study. I would like to learn about accounting.
+Speaker 2: I like animals. I am a people person. I want to be an artist, a painter. I did not finish college. I am a self taught painter. I love art. I am not a numbers person.
+[Session 2]
+Speaker 1: I want to enroll in accounting classes in my local college. I have work.. My mom was a teacher. I have worked at a grocery store for five years.
+Speaker 2: I want to study art and education. My mom was a teacher. I want to teach younger kids at an elementary school.
+[Session 3]
+Speaker 1: My mother was an elementary school teacher. I love studying. I have a job. I see a lot of people at work. I work with food.
+Speaker 2: I have a parent that was a teacher. I am a painter. I want to become an art teacher. I sell paintings.",y,Ngữ cảnh có câu 'I did not finish college'.
+session_4/test/208|1|305f709c|removal,Speaker 2,"I have a sister, who is married.","I have a sister, who is married.","[0.0, 1.0, 0.0]","[Session 1]
+Speaker 1: My name is Brad. I go to university. I work at a pizza shop. I like football. I like the Dallas Cowboys. I don't like to read. I live with my grandparents in an apartment. I got kicked out of my fraternity house. I am left handed.
+Speaker 2: I go to UCLA. I work at Burger King. I'm not interested in football. I like movies. I don't like horror movies. I like to read. My favorite author is John Grisham.
+[Session 2]
+Speaker 1: My name is Brad. I am a computer science and engineering student. I have 1 year left. I used to be in a fraternity, from which I got kicked out. I might go back for my masters degree. I have worked at an internship. I am planning to go back to the same company as an intern this summer. I am a football fan. I do not enjoy soccer. I love playing tennis.
+Speaker 2: I am a pre-law student. I am a student at UCLA. I have 3 more semesters left. I plan to go to law school. I am looking for a job or internship for the summer. My sister's husband is from England. I am a Bruins fan. I like tailgating. I don't like to watch soccer. I like to watch tennis. I do not play tennis. I am a fan of Roger Federer. I have been to the US Open and Wimbledon.
+[Session 3]
+Speaker 1: I have connections to a law firm in Sacramento. I used to work for a small software company. I'm hoping to work for them again. I am working on a masters degree.
+Speaker 2: I am looking for a pre-law internship. I am in school. I live with my sister. I want to get a good job so I can live on my own.",y,Ngữ cảnh có nhắc đến việc sống với chị gái và chồng của chị gái.
+session_5/test/90|0|d020cca2|removal,Speaker 1,My job has some flexibility but I would like more.,My job has some flexibility but I would like more.,"[0.0, 0.9984, 0.0016]","[Session 1]
+Speaker 1: I have a car. I am going to an art museum. I am not very good at tennis. I like playing badminton. I have a cousin that lives in Sweden.
+Speaker 2: I am tired. I have two kids and they are twins. I play tennis. I attend church on Sundays. I have never played badminton. I am from Sweden so I am Swedish. I have lived in the United States for 12 years.
+[Session 2]
+Speaker 1: I am an atheist. I have a cousin. I have never been to Sweden. I am a scientist. I am not very good at tennis.
+Speaker 2: I attend church. I have kids. I am from Sweden. I am married. I graduated from university in Sweden. I moved to the USA for a job. I work in a hospital. I work flexible hours. I like playing tennis.
+[Session 3]
+Speaker 1: I have a cousin in Sweden. I am thinking of visiting my cousin. I will need to start saving money to visit my cousin. My scientist job is rewarding but can be difficult work sometimes. Because of my job, I need time to decompress and be active.
+Speaker 2: I need a vacation. I miss Sweden a lot. My parents live there. I have not visited Sweden in a long time because it is expensive. My hospital job is going well. I have flexible hours so I can spend more time with my family. i have not tried playing badminton yet.
+[Session 4]
+Speaker 1: I have a flexible job. I am looking for a second part time job. I want to save money for a trip to Sweden. I enjoy checking out local music and coffee shops. I am a fan of hip hop that was released before 2010. I like jamband and classic reggae music.
+Speaker 2: I know the cool spots to check out in Sweden. I grew up in Sweden. Coffee shops are my favorite. I like good coffee and good chocolates. I love Swedish dance music and American hip hop. I am more aware of hip hop from 2010 - present. I have not heard of classic reggae.",y,Ngữ cảnh có nhắc đến giờ làm việc linh hoạt.
+session_3/test/84|1|f9cca391|removal,Speaker 2,I own a company.,I own a company.,"[0.0, 1.0, 0.0]","[Session 1]
+Speaker 1: I have a houseboat. I work as a bartender. I went to school. I have a masters degree. I like karaoke nights. I have brothers and sisters.
+Speaker 2: I like going to bars. I like karaoke and going to bars. I have two daughters.
+[Session 2]
+Speaker 1: I grew up in a big family. I have a masters' degree in Psychology. I bartend. I love being around people. I am happy working at the bar. I have a mother that was a counselor. I usually embarrass myself while doing Karaoke.
+Speaker 2: I have 2 daughters, ages 16 and 14, their names are Angelica and Jennifer. I have a business that is going well. I work in construction. I like karaoke. I like to sing dramatic songs.",y,Ngữ cảnh có câu 'I have a business that is going well'.
+session_3/test/434|1|dde8cbc5|removal,Speaker 2,I am a single dad and have one son.,I am a single dad and have one son.,"[0.0, 0.9886, 0.0113]","[Session 1]
+Speaker 1: I have grandkids. I love to read. I am religious. I am not a vegetarian but I don't each much meat.
+Speaker 2: I am a vegetarian.
+[Session 2]
+Speaker 1: I have grandchildren. I grew up poor and unable to afford much. I ate lots of vegetables growing up. I am of an older age. I have daughters. I have some grandchildren. I would like more grandchildren. I would like to live long enough to meet more grandchildren.
+Speaker 2: I like vegetarian food. I like grilling vegetables during the summer. I like grilling eggplant, zucchini, and similar vegetables. I enjoy grilled vegetables with balsamic drizzled on them. I have a son. My son does not like vegetables unless I deep fry them and serve them with ketchup. I grow my own zucchini. My health is not great. My doctor told me that I was on the path to developing heart problems due to my diet. I used to eat and drink unhealthily. I used to be married. I used to have a wife. I am divorced. I am a man. I have a son. We are Catholic. I have a son who is 8 years old.",y,"Ngữ cảnh có nhắc đến việc ly hôn, là nam và có con trai."
+session_5/test/283|0|4dd1cf12|removal,Speaker 1,I am too young to drive.,I am too young to drive.,"[0.9964, 0.0, 0.0036]","[Session 1]
+Speaker 1: I read the book ""Twilight."". I love animals. My mother is a doctor.
+Speaker 2: I have a garden. I love reading murder mystery novels. I sell cars for a living. My mother was a police officer. My favorite band is 5 Finger Death Punch.
+[Session 2]
+Speaker 1: I am reading the ""Twilight"" books. My mother is a doctor. I love tomatoes on hamburgers.
+Speaker 2: I like the band 5 Finger Death Punch. My mother has been a cop for 14 years. I need new new eyeglasses. My current glasses give me a headache. I have a garden that I planted myself. I plant tomatoes, carrots, green beans.
+[Session 3]
+Speaker 1: I just got a pair of new glasses and a pair of sunglasses on sale. I like rectangular glasses. I have black hair. I have black rectangular glasses. My sunglasses are bigger than my glasses. I had clear plastic sunglasses in the past. I had Coach sunglasses.
+Speaker 2: I have headaches. I have a garden. I need new glasses. I have an optometrist appointment next week. I have never had prescription sunglasses before. I like basic black rimmed rectangular glasses. I have a tiny head. I have insurance. I have brown hair. I have had blonde hair in the past. I had clear plastic sunglasses in the past. I am not brand loyal. I am going to buy glasses and sunglasses.
+[Session 4]
+Speaker 1: I wear glasses and sunglasses. I like Lenscrafters. I do not have any pets. I want to get a cat from the shelter. I cannot drive. I live with my mom. I do not know what I will name my cat yet.
+Speaker 2: I am getting prescription sunglasses from Lenscrafters. The sunglasses I got were Ray-Bans. I also wear prescription glasses. I have a garden. I want to get a dog. I want to get my dog from a rescue. I love weird names.",y,Ngữ cảnh có câu 'I cannot drive'.
+session_3/test/48|0|b6d4ee2b|removal,Speaker 1,I might tend to my garden today.,I might tend to my garden today.,"[0.0, 0.9659, 0.0341]","[Session 1]
+Speaker 1: I am growing peppers, tomatoes and some herbs. I'm a car salesman.
+Speaker 2: I am going outside to play basketball. I am short. I'm not very good at basketball but I like it. I like working outside. My dad drives a truck. My parents are from Canada. I work outside for my job.
+[Session 2]
+Speaker 1: I am married and have a wife. I have a wife that gardens. My wife loves to garden. My wife likes huskies. I do not have a dog. I am gone during the day.
+Speaker 2: I have a job as a dog walker. I like to exercise. I like to make money. I work part time. I adore the dog. I know where speaker 1 lives. I like huskies and german shephards. I want to learn how to garden. I will be walking dogs tomorrow. i am excited to see speaker 1 and the garden tomorrow.",y,Ngữ cảnh có nhắc đến khu vườn và việc chăm sóc vườn.
+session_4/test/114|0|dd19d930|removal,Speaker 1,I arrange shoe displays at work.,I arrange shoe displays at work.,"[0.0, 0.9989, 0.0011]","[Session 1]
+Speaker 1: I like watching movies. I have kids. I want my family to eat healthy.
+Speaker 2: I am a painter. I am an artist. I like to make music. I am looking for a new job. I do not like my current boss. I live in Hawaii.
+[Session 2]
+Speaker 1: I have kids. I don't have much time to watch movies. I would love to visit Hawaii.
+Speaker 2: I have been painting a series of animals. I will move on to painting birds and fish. I love animals. I have been recording mountain and seashorse sounds. I make music. I live in Hawaii.
+[Session 3]
+Speaker 1: I work in retail. I don't enjoy my work. I have been to San Francisco.
+Speaker 2: I want to be an artist. I took a digital photography class in high school. I am interested in many art forms. I worked in retail in the past and didn't like it. I currently live in Hawaii. I want to move to a different place. I don't think Hawaii is a good place to live.",n,
+session_5/test/328|0|bc991630|removal,Speaker 1,I use Crypto currency.,I use Crypto currency.,"[1.0, 0.0, 0.0]","[Session 1]
+Speaker 1: I have a sister. My sister and I love baseball. I am a Red Sox fan. I live in New England. I'm a truck driver. I've been a truck driver for a while. I fish to make extra money. I don't own any gold. I own some bitcoin.
+Speaker 2: I have a twin sister. I live in Minnesota. I love the Minnesota Twins. I am a dentist. I've been a dentist for 14 years. My favorite investment is in gold.
+[Session 2]
+Speaker 1: I'm interested in twins. I am a driver. I have a sister who drives for DoorDash. I am a truck driver. I enjoy my job.
+Speaker 2: I have an identical twin sister who is a freelance graphic designer. I am more interested in science than art. I am an investor. I'm interested in making side income.
+[Session 3]
+Speaker 1: I invested in Dogecoin a long time ago. I have a sister. My sister works for DoorDash. My sister doesn't get paid very much. I sold all my Dogecoin. I like baseball more than football. I lived on a farm growing up. I played baseball as a child.
+Speaker 2: I am looking for a side job. I think Crypto currency is bad for the environment and hurts stocks. I am considering apply to DoorDash. I like to gamble. I like Tom Brady. I enjoy watching professional baseball. I like the Seattle Mariners baseball team. I like the Seattle Seahawks football team. I played baseball as a child. I was a pitcher when I was in little league.
+[Session 4]
+Speaker 1: I am not very interested in gambling. I own some bitcoin. I do a lot of driving. Next week ill will be driving through Minnesota. I am planning on stopping to visit Speaker1 at that time. i have a delivery to make in minnesota.
+Speaker 2: I bet on sports. I like to bet on Tom Brady. I want to purchase gold. I sometimes watch baseball on TV. I live in Minnesota.",y,Ngữ cảnh có nhắc đến việc sở hữu Bitcoin.
+session_4/test/146|0|119275d9|removal,Speaker 1,I do not agree with factory farming.,I do not agree with factory farming.,"[0.9999, 0.0, 0.0001]","[Session 1]
+Speaker 1: I do not eat meat. I have a son who paints. I am attracted to women. I recycle. My boss stresses me out. I sell my recycled art.
+Speaker 2: I like animals. I like animals and nature. I like art. I am attracted to women. I am my own boss. I did not like my old job. I have enough money to donate.
+[Session 2]
+Speaker 1: I work and have a boss. My work is very stressful. I have a son who paints.
+Speaker 2: I work for myself. I work a lot of hours. I work outdoors. I have a dog. I like to go hiking.
+[Session 3]
+Speaker 1: Some outdoor fun might be good for me. I am stressed out at work. I am selling my arts. I have a son. He is more talented , than me.
+Speaker 2: I didn't pick up overtime I last night. . I was so tired I decided to cut out on time and get some sleep. I have a dog. I feel so bad when he has to be home by himself all day I'm going to take him on some hikes this weekend. : There's a trail we like in the foothills and then there's a dog park not too far from there. I am satisfied with working for myself. I love all types of art. I'd love to see some works of your son.",y,"Ngữ cảnh có nhắc đến việc không ăn thịt, liên quan đến quan điểm về chăn nuôi."
