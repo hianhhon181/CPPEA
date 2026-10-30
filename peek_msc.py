@@ -1,7 +1,7 @@
 """
 Xem chi tiết một bản ghi của msc_dialogue và ghi ra file peek_output.txt.
 
-Cách chạy (trong thư mục CPPEA):
+Cách chạy (trong thư mục dự án CoSA):
     python peek_msc.py
 Nếu dữ liệu nằm chỗ khác:
     python peek_msc.py "đường\\dẫn\\tới\\msc_dialogue\\session_2\\test.txt"

@@ -14,7 +14,7 @@ Sáu biến thể cho mỗi mẫu gốc:
     distractor_irrelevant  - thêm fact ngẫu nhiên không liên quan -> đáp án: fact đúng
     distractor_other       - thêm fact gây nhiễu vào bộ nhớ người kia -> đáp án: fact đúng
 
-Cách chạy (trong thư mục CPPEA):
+Cách chạy (trong thư mục dự án CoSA):
     python build_probes.py
     python build_probes.py --max-base 1500     # lấy mẫu con 1500 mẫu gốc x 6 biến thể
     python build_probes.py --max-base 1500 --shuffle-all --out probes_shuffled   # bản kiểm tra vị trí

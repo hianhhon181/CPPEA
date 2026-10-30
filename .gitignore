@@ -16,3 +16,5 @@ venv/
 .vscode/
 .DS_Store
 Thumbs.db
+audit/
+old_v1/
